@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T18:51:38",
+  "last_updated": "2026-08-01T18:52:07",
   "html": {
     "https://web.archive.org/web/20251226021003if_/https://twitter.com/Fanqian77v/status/2004374114531004666": {
       "status": "done",
@@ -6129,18 +6129,18 @@
       "referenced_by": [
         "20260327095956_twitter_com_Fanqian77v_status_2037469661156249622.json"
       ],
-      "last_updated": "2026-08-01T17:19:13",
+      "last_updated": "2026-08-01T18:52:01",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260327095956/https://video.twimg.com/amplify_video/2037469592508145664/vid/avc1/720x1186/2mzZrijOf3yqhI4K.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2057409641672593408/vid/avc1/720x1280/G_cz7m80KlY3iG8L.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260521103433_twitter_com_Fanqian77v_status_2057409707892211987.json"
       ],
-      "last_updated": "2026-08-01T17:19:12",
+      "last_updated": "2026-08-01T18:52:02",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260521103433/https://video.twimg.com/amplify_video/2057409641672593408/vid/avc1/720x1280/G_cz7m80KlY3iG8L.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2069423623677657088/vid/avc1/718x1280/wHUN5CNVcc4J-PoE.mp4": {
       "status": "done",
@@ -6154,9 +6154,9 @@
       "referenced_by": [
         "20260720033042_twitter_com_Fanqian77v_status_2079046313229111734.json"
       ],
-      "last_updated": "2026-08-01T17:19:11",
+      "last_updated": "2026-08-01T18:52:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260720033042/https://video.twimg.com/amplify_video/2079046268815638528/vid/avc1/720x1280/EkUtWoL4AK3FFL46.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2080293522956226560/vid/avc1/720x1280/N2H3cacQAzPJ04dc.mp4": {
       "status": "failed_all",
@@ -6164,18 +6164,18 @@
         "20260723140650_twitter_com_Fanqian77v_status_2080293565846958535.json",
         "20260723141409_twitter_com_Fanqian77v_status_2080295407834247197.json"
       ],
-      "last_updated": "2026-08-01T17:19:14",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260723141409/https://video.twimg.com/amplify_video/2080293522956226560/vid/avc1/720x1280/N2H3cacQAzPJ04dc.mp4",
-      "miss_count": 2
+      "last_updated": "2026-08-01T18:52:06",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260723140650/https://video.twimg.com/amplify_video/2080293522956226560/vid/avc1/720x1280/N2H3cacQAzPJ04dc.mp4",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2081732140111478784/vid/avc1/720x772/yck8AEWgo8x3PFWU.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260727150922_twitter_com_Fanqian77v_status_2081758854677922201.json"
       ],
-      "last_updated": "2026-08-01T17:19:10",
+      "last_updated": "2026-08-01T18:52:07",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260727150922/https://video.twimg.com/amplify_video/2081732140111478784/vid/avc1/720x772/yck8AEWgo8x3PFWU.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
