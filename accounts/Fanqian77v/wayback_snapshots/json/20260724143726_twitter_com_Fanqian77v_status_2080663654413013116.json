@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2080653724129939767",
+    "created_at": "2026-07-24T14:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080663654413013116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1961423639590715392",
+          "start": 0,
+          "username": "Xx3Eila"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080663654413013116",
+    "in_reply_to_user_id": "1961423639590715392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080653724129939767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xx3Eila 太可爱了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080653708678107136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_3hjZbkAAvBaM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080653707847630848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_3hgTbgAA235o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2080653724129939767",
+        "created_at": "2026-07-24T14:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080663654413013116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1961423639590715392",
+              "start": 0,
+              "username": "Xx3Eila"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080663654413013116",
+        "in_reply_to_user_id": "1961423639590715392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080653724129939767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xx3Eila 太可爱了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080653708678107136",
+            "3_2080653707847630848"
+          ]
+        },
+        "author_id": "1961423639590715392",
+        "conversation_id": "2080653724129939767",
+        "created_at": "2026-07-24T13:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080653724129939767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yWTQu4PjK",
+              "end": 43,
+              "expanded_url": "https://x.com/Xx3Eila/status/2080653724129939767/photo/1",
+              "media_key": "3_2080653708678107136",
+              "start": 20,
+              "url": "https://t.co/1yWTQu4PjK"
+            },
+            {
+              "display_url": "pic.x.com/1yWTQu4PjK",
+              "end": 43,
+              "expanded_url": "https://x.com/Xx3Eila/status/2080653724129939767/photo/1",
+              "media_key": "3_2080653707847630848",
+              "start": 20,
+              "url": "https://t.co/1yWTQu4PjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080653724129939767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想念白毛的时候啊我现在的头发已经死了 https://t.co/1yWTQu4PjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T13:41:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eilaxx84074",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eilaxx84074",
+                "start": 0,
+                "url": "https://t.co/yyoVzIR2QZ"
+              }
+            ]
+          }
+        },
+        "id": "1961423639590715392",
+        "name": "这副身躯也似蜉蝣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063329223417857/C0GC9KNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 18,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/yyoVzIR2QZ",
+        "username": "Xx3Eila",
+        "verified": false
+      }
+    ]
+  }
+}

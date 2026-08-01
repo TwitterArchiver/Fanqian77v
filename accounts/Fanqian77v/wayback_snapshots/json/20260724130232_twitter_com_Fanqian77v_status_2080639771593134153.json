@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2080639771593134153",
+    "created_at": "2026-07-24T13:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080639771593134153"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080639771593134153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想天天磕药，这样就不会一直想着吃东西 明天再来点加巴吧！即使是微弱的欣快感也能给我力量！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2080639771593134153",
+        "created_at": "2026-07-24T13:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080639771593134153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080639771593134153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想天天磕药，这样就不会一直想着吃东西 明天再来点加巴吧！即使是微弱的欣快感也能给我力量！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 80,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

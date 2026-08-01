@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2023357413395660964",
+    "created_at": "2026-02-16T11:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T12:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023357413395660964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504630614578073600",
+          "start": 3,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023357413395660964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023328130719752679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunxvan1: 你们不是原生家庭悲惨只能通过od和听地下音乐逃离现实的社会边缘青少年吗？那你们朋友圈这些几百几千转账和红包是什么意思呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2023357413395660964",
+        "created_at": "2026-02-16T11:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023357413395660964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504630614578073600",
+              "start": 3,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023357413395660964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023328130719752679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunxvan1: 你们不是原生家庭悲惨只能通过od和听地下音乐逃离现实的社会边缘青少年吗？那你们朋友圈这些几百几千转账和红包是什么意思呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2023328130719752679",
+        "created_at": "2026-02-16T09:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023328130719752679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023328130719752679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 944,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你们不是原生家庭悲惨只能通过od和听地下音乐逃离现实的社会边缘青少年吗？那你们朋友圈这些几百几千转账和红包是什么意思呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773144258910081024/MV5SJwKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 65,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 喜欢挂人 好友位66",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "谢谢",
+        "pinned_tweet_id": "2015092568854515750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841,
+          "following_count": 708,
+          "like_count": 7983,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 999
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2076987994712772992",
+    "created_at": "2026-07-14T11:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T12:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076987994712772992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tea4qt/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/tea4qt/status/2076955107611287976",
+          "start": 14,
+          "url": "https://t.co/MqolaT9QqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076987994712772992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076955107611287976",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想穿这种类型的裙子…好可爱 https://t.co/MqolaT9QqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076955103605772288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLTqZzbUAAJHAt.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076955103622569984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLTqZ3boAAxOjo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076955103609929729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLTqZ0awAEOHLo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076955103597330432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLTqZxagAAavbP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2076987994712772992",
+        "created_at": "2026-07-14T11:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076987994712772992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tea4qt/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/tea4qt/status/2076955107611287976",
+              "start": 14,
+              "url": "https://t.co/MqolaT9QqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076987994712772992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076955107611287976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想穿这种类型的裙子…好可爱 https://t.co/MqolaT9QqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076955103605772288",
+            "3_2076955103622569984",
+            "3_2076955103609929729",
+            "3_2076955103597330432"
+          ]
+        },
+        "author_id": "1939336331962028033",
+        "conversation_id": "2076955107611287976",
+        "created_at": "2026-07-14T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076955107611287976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWTJN5XGRg",
+              "end": 54,
+              "expanded_url": "https://x.com/tea4qt/status/2076955107611287976/photo/1",
+              "media_key": "3_2076955103605772288",
+              "start": 31,
+              "url": "https://t.co/QWTJN5XGRg"
+            },
+            {
+              "display_url": "pic.x.com/QWTJN5XGRg",
+              "end": 54,
+              "expanded_url": "https://x.com/tea4qt/status/2076955107611287976/photo/1",
+              "media_key": "3_2076955103622569984",
+              "start": 31,
+              "url": "https://t.co/QWTJN5XGRg"
+            },
+            {
+              "display_url": "pic.x.com/QWTJN5XGRg",
+              "end": 54,
+              "expanded_url": "https://x.com/tea4qt/status/2076955107611287976/photo/1",
+              "media_key": "3_2076955103609929729",
+              "start": 31,
+              "url": "https://t.co/QWTJN5XGRg"
+            },
+            {
+              "display_url": "pic.x.com/QWTJN5XGRg",
+              "end": 54,
+              "expanded_url": "https://x.com/tea4qt/status/2076955107611287976/photo/1",
+              "media_key": "3_2076955103597330432",
+              "start": 31,
+              "url": "https://t.co/QWTJN5XGRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076955107611287976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 13857,
+          "like_count": 540,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "なるほどかわいい( *¯ㅿ¯*)♥これ思い付くの天才だ... https://t.co/QWTJN5XGRg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 72,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T14:53:18.000Z",
+        "description": "可愛いに命を捧げます♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tea4qt?igsh=dW…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tea4qt?igsh=dWpqZHE1cGQ0cjlz&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/nbD9gumaxm"
+              }
+            ]
+          }
+        },
+        "id": "1939336331962028033",
+        "name": "有栖",
+        "pinned_tweet_id": "2046930964379844678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969432027771650049/gSpdwU77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 505,
+          "like_count": 13519,
+          "listed_count": 12,
+          "media_count": 127,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/nbD9gumaxm",
+        "username": "tea4qt",
+        "verified": false
+      }
+    ]
+  }
+}

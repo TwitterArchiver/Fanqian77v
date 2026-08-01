@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082361033528934400"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2082361046166331413",
+    "created_at": "2026-07-29T07:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082361046166331413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oPn3k7f8XL",
+          "end": 32,
+          "expanded_url": "https://x.com/Fanqian77v/status/2082361046166331413/photo/1",
+          "media_key": "3_2082361033528934400",
+          "start": 9,
+          "url": "https://t.co/oPn3k7f8XL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082361046166331413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "桃儿给我买了诶嘿 https://t.co/oPn3k7f8XL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2082361033528934400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYIU8GbgAABccb.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082361033528934400"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2082361046166331413",
+        "created_at": "2026-07-29T07:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082361046166331413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPn3k7f8XL",
+              "end": 32,
+              "expanded_url": "https://x.com/Fanqian77v/status/2082361046166331413/photo/1",
+              "media_key": "3_2082361033528934400",
+              "start": 9,
+              "url": "https://t.co/oPn3k7f8XL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082361046166331413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桃儿给我买了诶嘿 https://t.co/oPn3k7f8XL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 89,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

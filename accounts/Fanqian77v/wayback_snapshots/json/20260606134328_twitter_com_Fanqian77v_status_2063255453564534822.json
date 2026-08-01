@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063255440449040384"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2063255453564534822",
+    "created_at": "2026-06-06T13:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063255453564534822"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o3kXQzzIFs",
+          "end": 43,
+          "expanded_url": "https://x.com/Fanqian77v/status/2063255453564534822/photo/1",
+          "media_key": "3_2063255440449040384",
+          "start": 20,
+          "url": "https://t.co/o3kXQzzIFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063255453564534822",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈\n#地雷系女子 \n#雰囲気 https://t.co/o3kXQzzIFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2063255440449040384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIn5DjbcAAS_oU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063255440449040384"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2063255453564534822",
+        "created_at": "2026-06-06T13:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063255453564534822"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3kXQzzIFs",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2063255453564534822/photo/1",
+              "media_key": "3_2063255440449040384",
+              "start": 20,
+              "url": "https://t.co/o3kXQzzIFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063255453564534822",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈\n#地雷系女子 \n#雰囲気 https://t.co/o3kXQzzIFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧！\n门槛188｜你会获得一堆无聊的日常\n只o不g od妹快来一起玩啊，看到的我都会回关",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 61,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 197
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2082502488511647804",
+    "created_at": "2026-07-30T03:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082669409865232844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2080019006359314432",
+          "start": 0,
+          "username": "ruikoxoxoxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082669409865232844",
+    "in_reply_to_user_id": "2080019006359314432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082561895144558821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruikoxoxoxo 哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2082502488511647804",
+        "created_at": "2026-07-30T03:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082669409865232844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2080019006359314432",
+              "start": 0,
+              "username": "ruikoxoxoxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082669409865232844",
+        "in_reply_to_user_id": "2080019006359314432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082561895144558821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruikoxoxoxo 哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080019006359314432",
+        "conversation_id": "2082502488511647804",
+        "created_at": "2026-07-29T20:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082561895144558821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082561895144558821",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082502488511647804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 可能人于人之间的差异吧 我o完没有幻就是纯粹的很舒服很开朗 然后睡醒后也很舒服。主要第一次o完睡醒前的迷惑过程太幸福太上瘾太犯规了我好喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 92,
+          "like_count": 928,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T19:59:58.000Z",
+        "description": "一个叽里咕噜的小号",
+        "id": "2080019006359314432",
+        "name": "我躲起来了2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080020508192727040/-uTyDzUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "ruikoxoxoxo",
+        "verified": false
+      }
+    ]
+  }
+}

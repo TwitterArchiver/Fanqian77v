@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2073675231991136257",
+    "created_at": "2026-07-05T07:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073675231991136257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073675231991136257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好伤心 重修交了400 花了很多时间画作业 也按时交给学委了 最后不知道为什么老师没收到作业 哎我好崩溃啊我明年难道还要交400块重修吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2073675231991136257",
+        "created_at": "2026-07-05T07:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073675231991136257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073675231991136257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好伤心 重修交了400 花了很多时间画作业 也按时交给学委了 最后不知道为什么老师没收到作业 哎我好崩溃啊我明年难道还要交400块重修吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 69,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

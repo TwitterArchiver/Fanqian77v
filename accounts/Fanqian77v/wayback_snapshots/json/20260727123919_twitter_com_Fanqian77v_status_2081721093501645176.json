@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081707881246900583",
+    "created_at": "2026-07-27T12:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081721093501645176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1797273760325877760",
+          "start": 0,
+          "username": "xyv__3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081721093501645176",
+    "in_reply_to_user_id": "1797273760325877760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081707881246900583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xyv__3 🤤🤤等待品鉴结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081707881246900583",
+        "created_at": "2026-07-27T12:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081721093501645176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1797273760325877760",
+              "start": 0,
+              "username": "xyv__3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081721093501645176",
+        "in_reply_to_user_id": "1797273760325877760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081707881246900583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xyv__3 🤤🤤等待品鉴结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797273760325877760",
+        "conversation_id": "2081707881246900583",
+        "created_at": "2026-07-27T11:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081707881246900583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081707881246900583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老公给我买了飘飘糖，等待收获严肃品鉴🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 74,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T14:27:20.000Z",
+        "description": "世界大爆炸，互fo大欢迎\n小号@Xiaoyudawang315\n可以叫我小鱼🐟07-双相-药物滥用-量产&地雷\n欢迎大家找我聊天\n碎碎念，啥都发",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Xiaoyudawang315"
+              }
+            ]
+          }
+        },
+        "id": "1797273760325877760",
+        "location": "不收🚪不加联系方式",
+        "name": "3600斤",
+        "pinned_tweet_id": "2079387191143489757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797280153359499264/xavXjUcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 133,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "xyv__3",
+        "verified": false
+      }
+    ]
+  }
+}

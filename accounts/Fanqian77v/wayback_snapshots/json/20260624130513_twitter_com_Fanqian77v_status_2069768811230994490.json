@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2069768811230994490",
+    "created_at": "2026-06-24T13:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T14:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069768811230994490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_dimmoire_/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/_dimmoire_/status/2069746865382502732",
+          "start": 15,
+          "url": "https://t.co/g0aDznbXrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069768811230994490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069746865382502732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一定会抢到这个二代半裙的… https://t.co/g0aDznbXrJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3663,
+        "media_key": "3_2069746854175076352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk3zEIWcAAcDgP.jpg",
+        "width": 3433
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2069768811230994490",
+        "created_at": "2026-06-24T13:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T14:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069768811230994490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_dimmoire_/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_dimmoire_/status/2069746865382502732",
+              "start": 15,
+              "url": "https://t.co/g0aDznbXrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069768811230994490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069746865382502732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一定会抢到这个二代半裙的… https://t.co/g0aDznbXrJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069746854175076352"
+          ]
+        },
+        "author_id": "1334982574754516992",
+        "conversation_id": "2069746865382502732",
+        "created_at": "2026-06-24T11:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069746865382502732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“魅せびらかしたくなるお洋服”をコンセプトにしたアパレルブランド 、DimMoire (ディムモアール)♥",
+              "display_url": "dimmoire.jp",
+              "end": 99,
+              "expanded_url": "https://www.dimmoire.jp/",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2069746925998632960/LADBiyBr?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069746925998632960/LADBiyBr?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "DimMoire",
+              "unwound_url": "https://www.dimmoire.jp/",
+              "url": "https://t.co/tDMiyEANyQ"
+            },
+            {
+              "display_url": "pic.x.com/nS6ilJCEbx",
+              "end": 123,
+              "expanded_url": "https://x.com/_DimMoire_/status/2069746865382502732/photo/1",
+              "media_key": "3_2069746854175076352",
+              "start": 100,
+              "url": "https://t.co/nS6ilJCEbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069746865382502732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5315,
+          "like_count": 95,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "◆◆キャンセル分再販のお知らせ◆◆\n\n1月に受注生産したアイテムのキャンセル分を再販します💀🖤⟡.·\n\n明日【6月25日18:00】再販スタート❕\n🛒➰https://t.co/tDMiyEANyQ https://t.co/nS6ilJCEbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 73,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-04T22:07:17.000Z",
+        "description": "魅せびらかしたくなるお洋服 .. “ディムモアール‘’",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dimmoire.jp",
+                "end": 23,
+                "expanded_url": "https://www.dimmoire.jp/",
+                "start": 0,
+                "url": "https://t.co/7HrQNTi7UL"
+              }
+            ]
+          }
+        },
+        "id": "1334982574754516992",
+        "name": "DimMoire",
+        "pinned_tweet_id": "2057416135595970824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995451225329008640/iTkZd1jI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35792,
+          "following_count": 182,
+          "like_count": 3978,
+          "listed_count": 278,
+          "media_count": 903,
+          "tweet_count": 3356
+        },
+        "url": "https://t.co/7HrQNTi7UL",
+        "username": "_DimMoire_",
+        "verified": true
+      }
+    ]
+  }
+}

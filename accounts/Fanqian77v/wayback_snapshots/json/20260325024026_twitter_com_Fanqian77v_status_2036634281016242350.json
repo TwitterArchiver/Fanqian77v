@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2036634281016242350",
+    "created_at": "2026-03-25T02:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T03:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036634281016242350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshiumisexy/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hoshiumisexy/status/2036487152402575391",
+          "start": 5,
+          "url": "https://t.co/bI1p6mPhqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036634281016242350",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036487152402575391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "os好萌 https://t.co/bI1p6mPhqj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_2036487145817509888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMORPQaEAAyJgG.png",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2036634281016242350",
+        "created_at": "2026-03-25T02:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036634281016242350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshiumisexy/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hoshiumisexy/status/2036487152402575391",
+              "start": 5,
+              "url": "https://t.co/bI1p6mPhqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036634281016242350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036487152402575391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "os好萌 https://t.co/bI1p6mPhqj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036487145817509888"
+          ]
+        },
+        "author_id": "1165540204628733953",
+        "conversation_id": "2036487152402575391",
+        "created_at": "2026-03-24T16:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036487152402575391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeSxUIJjqs",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshiumisexy/status/2036487152402575391/photo/1",
+              "media_key": "3_2036487145817509888",
+              "start": 0,
+              "url": "https://t.co/zeSxUIJjqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036487152402575391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 12987,
+          "like_count": 2045,
+          "quote_count": 13,
+          "reply_count": 3,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zeSxUIJjqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q\n喜欢我就给我打钱吧！",
+        "id": "1773143737423847424",
+        "location": "188 无福利只是好友位➕朋友圈日常",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 61,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 94
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T08:23:43.000Z",
+        "description": "hi im kdad!! todoroki touya sports commentator. Donate to the PCRF: https://t.co/VB8uSdun1Y 🆓🇵🇸🔻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pcrf.net",
+                "end": 91,
+                "expanded_url": "https://www.pcrf.net/",
+                "start": 68,
+                "url": "https://t.co/VB8uSdun1Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web-ace.jp/youngaceup/con…",
+                "end": 23,
+                "expanded_url": "https://web-ace.jp/youngaceup/contents/1000183/",
+                "start": 0,
+                "url": "https://t.co/DL4T7vGnGr"
+              }
+            ]
+          }
+        },
+        "id": "1165540204628733953",
+        "location": "they/them, 30",
+        "name": "hoshiumi's PR team",
+        "pinned_tweet_id": "2008026247830671564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023572241016094720/VH1kVLVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26692,
+          "following_count": 998,
+          "like_count": 197708,
+          "listed_count": 132,
+          "media_count": 37057,
+          "tweet_count": 252983
+        },
+        "url": "https://t.co/DL4T7vGnGr",
+        "username": "hoshiumisexy",
+        "verified": false
+      }
+    ]
+  }
+}

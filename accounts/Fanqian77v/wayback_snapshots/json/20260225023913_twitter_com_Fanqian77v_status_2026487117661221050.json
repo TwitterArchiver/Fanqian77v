@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026487045175259136"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2026487117661221050",
+    "created_at": "2026-02-25T02:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026487117661221050"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 3,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "雰囲気"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "量産型"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p3kQjBSmUn",
+          "end": 43,
+          "expanded_url": "https://x.com/Fanqian77v/status/2026487117661221050/video/1",
+          "media_key": "13_2026487045175259136",
+          "start": 20,
+          "url": "https://t.co/p3kQjBSmUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026487117661221050",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "💗\n #自撮り界隈 #雰囲気 #量産型 https://t.co/p3kQjBSmUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11033,
+        "height": 1280,
+        "media_key": "13_2026487045175259136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026487045175259136/img/Qk0Obr3TkBwQPJUI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026487045175259136/vid/avc1/320x568/bPaMS8taT39jrfHw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026487045175259136/vid/avc1/480x852/2RzgPqbquC7drZC4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026487045175259136/vid/avc1/720x1280/5pWOVRTXsnAXC2D-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026487045175259136/pl/svJjx7rHcgtbcA5M.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026487045175259136"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2026487117661221050",
+        "created_at": "2026-02-25T02:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026487117661221050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 3,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "量産型"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p3kQjBSmUn",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2026487117661221050/video/1",
+              "media_key": "13_2026487045175259136",
+              "start": 20,
+              "url": "https://t.co/p3kQjBSmUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026487117661221050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💗\n #自撮り界隈 #雰囲気 #量産型 https://t.co/p3kQjBSmUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 50,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 33
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

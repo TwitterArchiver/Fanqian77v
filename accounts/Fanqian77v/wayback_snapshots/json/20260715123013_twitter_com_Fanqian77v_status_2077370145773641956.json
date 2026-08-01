@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077370127343812608"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2077370145773641956",
+    "created_at": "2026-07-15T12:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077370145773641956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w8iA0VKhcs",
+          "end": 46,
+          "expanded_url": "https://x.com/Fanqian77v/status/2077370145773641956/photo/1",
+          "media_key": "3_2077370127343812608",
+          "start": 23,
+          "url": "https://t.co/w8iA0VKhcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077370145773641956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "kry中古裙好呆萌质量也好，两件套而且还有兜 https://t.co/w8iA0VKhcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077370127343812608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRNH9tWAAAMOSz.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077370127343812608"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2077370145773641956",
+        "created_at": "2026-07-15T12:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077370145773641956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w8iA0VKhcs",
+              "end": 46,
+              "expanded_url": "https://x.com/Fanqian77v/status/2077370145773641956/photo/1",
+              "media_key": "3_2077370127343812608",
+              "start": 23,
+              "url": "https://t.co/w8iA0VKhcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077370145773641956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kry中古裙好呆萌质量也好，两件套而且还有兜 https://t.co/w8iA0VKhcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 72,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 243
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

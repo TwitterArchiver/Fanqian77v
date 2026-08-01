@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2050972483004838058",
+    "created_at": "2026-05-03T16:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050972483004838058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050972483004838058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050592287655440859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: 日本含右美沙芬止咳药 愈创木酚磺酸钾对比愈创甘油醚更不容易恶心呕吐 但存在个体差异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2050972483004838058",
+        "created_at": "2026-05-03T16:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050972483004838058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050972483004838058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050592287655440859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: 日本含右美沙芬止咳药 愈创木酚磺酸钾对比愈创甘油醚更不容易恶心呕吐 但存在个体差异"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2050592287655440859",
+        "created_at": "2026-05-02T15:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050592287655440859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Origami_Uraniu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Origami_Uranium/status/2050155198782582952",
+              "start": 42,
+              "url": "https://t.co/jD4nxYGu3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050592287655440859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5181,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050155198782582952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本含右美沙芬止咳药 愈创木酚磺酸钾对比愈创甘油醚更不容易恶心呕吐 但存在个体差异 https://t.co/jD4nxYGu3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 57,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 134
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "接受药物报告及相关投稿 | 提问箱：https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 41,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 18,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2905,
+          "following_count": 100,
+          "like_count": 11615,
+          "listed_count": 8,
+          "media_count": 697,
+          "tweet_count": 4201
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

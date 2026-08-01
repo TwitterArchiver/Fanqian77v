@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031029265991700480",
+        "3_2031029266020970496"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2031029278155120908",
+    "created_at": "2026-03-09T15:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T16:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031029278155120908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iXOrTFTtkL",
+          "end": 30,
+          "expanded_url": "https://x.com/Fanqian77v/status/2031029278155120908/photo/1",
+          "media_key": "3_2031029265991700480",
+          "start": 7,
+          "url": "https://t.co/iXOrTFTtkL"
+        },
+        {
+          "display_url": "pic.x.com/iXOrTFTtkL",
+          "end": 30,
+          "expanded_url": "https://x.com/Fanqian77v/status/2031029278155120908/photo/1",
+          "media_key": "3_2031029266020970496",
+          "start": 7,
+          "url": "https://t.co/iXOrTFTtkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031029278155120908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我买哪件呢… https://t.co/iXOrTFTtkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2031029265991700480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-qW0fbkAAiuZI.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1119,
+        "media_key": "3_2031029266020970496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-qW0maMAAFHwe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031029265991700480",
+            "3_2031029266020970496"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2031029278155120908",
+        "created_at": "2026-03-09T15:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T16:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031029278155120908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXOrTFTtkL",
+              "end": 30,
+              "expanded_url": "https://x.com/Fanqian77v/status/2031029278155120908/photo/1",
+              "media_key": "3_2031029265991700480",
+              "start": 7,
+              "url": "https://t.co/iXOrTFTtkL"
+            },
+            {
+              "display_url": "pic.x.com/iXOrTFTtkL",
+              "end": 30,
+              "expanded_url": "https://x.com/Fanqian77v/status/2031029278155120908/photo/1",
+              "media_key": "3_2031029266020970496",
+              "start": 7,
+              "url": "https://t.co/iXOrTFTtkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031029278155120908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买哪件呢… https://t.co/iXOrTFTtkL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 62
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

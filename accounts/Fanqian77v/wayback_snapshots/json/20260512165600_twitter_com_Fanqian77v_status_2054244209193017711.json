@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2054244209193017711",
+    "created_at": "2026-05-12T16:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054244209193017711"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054244209193017711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太特么聪明了我把芥末抹在舌根上然后再把药扔进去用酸奶一顺 我尼玛呀一点愈美片味都没有而且特别清新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2054244209193017711",
+        "created_at": "2026-05-12T16:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054244209193017711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054244209193017711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太特么聪明了我把芥末抹在舌根上然后再把药扔进去用酸奶一顺 我尼玛呀一点愈美片味都没有而且特别清新"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 143
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

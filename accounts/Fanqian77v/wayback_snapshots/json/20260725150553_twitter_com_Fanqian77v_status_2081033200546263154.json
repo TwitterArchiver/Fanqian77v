@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081009535716851978",
+    "created_at": "2026-07-25T15:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081033200546263154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970504759762419712",
+          "start": 0,
+          "username": "DkyOnlyforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081033200546263154",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081009535716851978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DkyOnlyforu 好幸胡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081009518260203520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE7IZYbMAAFRcy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081009518234996737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE7IZSakAES5q0.jpg",
+        "width": 1494
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081009518272733184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE7IZbaYAAoccM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2081009518222434306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE7IZPa4AI1TfW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081009535716851978",
+        "created_at": "2026-07-25T15:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081033200546263154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081033200546263154",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081009535716851978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 好幸胡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081009518260203520",
+            "3_2081009518234996737",
+            "3_2081009518272733184",
+            "3_2081009518222434306"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081009535716851978",
+        "created_at": "2026-07-25T13:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081009535716851978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Auhgjdn7ZD",
+              "end": 43,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2081009535716851978/photo/1",
+              "media_key": "3_2081009518260203520",
+              "start": 20,
+              "url": "https://t.co/Auhgjdn7ZD"
+            },
+            {
+              "display_url": "pic.x.com/Auhgjdn7ZD",
+              "end": 43,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2081009535716851978/photo/1",
+              "media_key": "3_2081009518234996737",
+              "start": 20,
+              "url": "https://t.co/Auhgjdn7ZD"
+            },
+            {
+              "display_url": "pic.x.com/Auhgjdn7ZD",
+              "end": 43,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2081009535716851978/photo/1",
+              "media_key": "3_2081009518272733184",
+              "start": 20,
+              "url": "https://t.co/Auhgjdn7ZD"
+            },
+            {
+              "display_url": "pic.x.com/Auhgjdn7ZD",
+              "end": 43,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2081009535716851978/photo/1",
+              "media_key": "3_2081009518222434306",
+              "start": 20,
+              "url": "https://t.co/Auhgjdn7ZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081009535716851978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你单休也愿意很远来见我陪我🥺好幸福 https://t.co/Auhgjdn7ZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 715,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月^ω^ ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜不闲聊谢谢谢过门甩口令么么哒",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2051542151184753090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079067181468512256/2AGW4iVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 497,
+          "like_count": 5824,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 2829
+        },
+        "url": "",
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

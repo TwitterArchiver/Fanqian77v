@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2061806196169060706",
+    "created_at": "2026-06-02T13:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061806196169060706"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061806196169060706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不明白为什么才6.2号就不掉秤了 我好崩溃啊 每个月原本3-10号来姨妈的日子一直不来姨妈 就一直会储水，真正来姨妈的日子是15-18号 那么10-15来姨妈的一个星期前就又会储水，18-23才是我掉秤的时候，与此同时下个月的储水又要开始了。一个月只有七天在掉秤 凭什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2061806196169060706",
+        "created_at": "2026-06-02T13:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061806196169060706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061806196169060706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白为什么才6.2号就不掉秤了 我好崩溃啊 每个月原本3-10号来姨妈的日子一直不来姨妈 就一直会储水，真正来姨妈的日子是15-18号 那么10-15来姨妈的一个星期前就又会储水，18-23才是我掉秤的时候，与此同时下个月的储水又要开始了。一个月只有七天在掉秤 凭什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧！\n门槛188｜你会获得一堆无聊的日常\n只o不g od妹快来一起玩啊，看到的我都会回关",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 57,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 184
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

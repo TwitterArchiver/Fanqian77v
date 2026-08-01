@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070760312165507072"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2070760337427911101",
+    "created_at": "2026-06-27T06:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070760337427911101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G8umdnW9z7",
+          "end": 54,
+          "expanded_url": "https://x.com/Fanqian77v/status/2070760337427911101/photo/1",
+          "media_key": "3_2070760312165507072",
+          "start": 31,
+          "url": "https://t.co/G8umdnW9z7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070760337427911101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好嗨森呀有个女孩帮我下单了好价intico，最近好幸运呀😭😭 https://t.co/G8umdnW9z7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2070760312165507072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzRiFWaIAAw5lK.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070760312165507072"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2070760337427911101",
+        "created_at": "2026-06-27T06:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070760337427911101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8umdnW9z7",
+              "end": 54,
+              "expanded_url": "https://x.com/Fanqian77v/status/2070760337427911101/photo/1",
+              "media_key": "3_2070760312165507072",
+              "start": 31,
+              "url": "https://t.co/G8umdnW9z7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070760337427911101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好嗨森呀有个女孩帮我下单了好价intico，最近好幸运呀😭😭 https://t.co/G8umdnW9z7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 74,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

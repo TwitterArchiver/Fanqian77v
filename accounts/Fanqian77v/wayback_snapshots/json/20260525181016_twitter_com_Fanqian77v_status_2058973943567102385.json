@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2058973943567102385",
+    "created_at": "2026-05-25T18:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058973943567102385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889200694986756096",
+          "start": 3,
+          "username": "OvOxiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058973943567102385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058823257961497030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvOxiaomi8964: 有人问我为啥老发负能量，我负能量你马币，这他妈老子日常，还说我不正能量，我每天就过的这么苦逼咋正能量，我不想发？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2058973943567102385",
+        "created_at": "2026-05-25T18:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058973943567102385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889200694986756096",
+              "start": 3,
+              "username": "OvOxiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058973943567102385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058823257961497030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvOxiaomi8964: 有人问我为啥老发负能量，我负能量你马币，这他妈老子日常，还说我不正能量，我每天就过的这么苦逼咋正能量，我不想发？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2058823257961497030",
+        "created_at": "2026-05-25T08:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058823257961497030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058823257961497030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1045,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有人问我为啥老发负能量，我负能量你马币，这他妈老子日常，还说我不正能量，我每天就过的这么苦逼咋正能量，我不想发？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧！\n门槛188｜你会获得一堆无聊的日常\n只o不g od妹快来一起玩啊，看到的我都会回关",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 56,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 172
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "搬我帖子到墙内的人死全家。我没素质。\n俺不互fo不回私信! @OnOxiaomi（⬅️仅过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "OnOxiaomi"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "🚪199纯绿不退",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046810726686433280/YI_-e75p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 280,
+          "like_count": 31145,
+          "listed_count": 14,
+          "media_count": 1062,
+          "tweet_count": 17953
+        },
+        "username": "OvOxiaomi8964",
+        "verified": false
+      }
+    ]
+  }
+}

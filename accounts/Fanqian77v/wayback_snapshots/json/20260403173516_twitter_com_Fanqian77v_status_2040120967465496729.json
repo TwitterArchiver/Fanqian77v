@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2040120967465496729",
+    "created_at": "2026-04-03T17:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T18:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040120967465496729"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040120967465496729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚吃了ym，现在想睡觉但是好怕睡着了之后一阵吐意把我弄醒。我不想被呕吐物呛死🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2040120967465496729",
+        "created_at": "2026-04-03T17:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T18:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040120967465496729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040120967465496729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚吃了ym，现在想睡觉但是好怕睡着了之后一阵吐意把我弄醒。我不想被呕吐物呛死🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 60,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 107
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

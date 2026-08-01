@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023913608556802049"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023913622448288093",
+    "created_at": "2026-02-18T00:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023913622448288093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4lhjj3WrQK",
+          "end": 23,
+          "expanded_url": "https://x.com/Fanqian77v/status/2023913622448288093/photo/1",
+          "media_key": "3_2023913608556802049",
+          "start": 0,
+          "url": "https://t.co/4lhjj3WrQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023913622448288093",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/4lhjj3WrQK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2023913608556802049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBZitC4bcAERmwa.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023913608556802049"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023913622448288093",
+        "created_at": "2026-02-18T00:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023913622448288093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4lhjj3WrQK",
+              "end": 23,
+              "expanded_url": "https://x.com/Fanqian77v/status/2023913622448288093/photo/1",
+              "media_key": "3_2023913608556802049",
+              "start": 0,
+              "url": "https://t.co/4lhjj3WrQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023913622448288093",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4lhjj3WrQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

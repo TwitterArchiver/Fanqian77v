@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070580020041711616"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2070580035556397395",
+    "created_at": "2026-06-26T18:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070580035556397395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991795014163382272",
+          "start": 3,
+          "username": "fortearsidie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCXobSCgz0",
+          "end": 58,
+          "expanded_url": "https://x.com/Fanqian77v/status/2070580035556397395/photo/1",
+          "media_key": "3_2070580020041711616",
+          "start": 35,
+          "url": "https://t.co/XCXobSCgz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070580035556397395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到了@fortearsidie 的赞赏😭😭😭，谢谢你呀好嗨森🥺🥺🥺 https://t.co/XCXobSCgz0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2070580020041711616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwtjs2bgAAu0sq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070580020041711616"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2070580035556397395",
+        "created_at": "2026-06-26T18:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070580035556397395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991795014163382272",
+              "start": 3,
+              "username": "fortearsidie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCXobSCgz0",
+              "end": 58,
+              "expanded_url": "https://x.com/Fanqian77v/status/2070580035556397395/photo/1",
+              "media_key": "3_2070580020041711616",
+              "start": 35,
+              "url": "https://t.co/XCXobSCgz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070580035556397395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了@fortearsidie 的赞赏😭😭😭，谢谢你呀好嗨森🥺🥺🥺 https://t.co/XCXobSCgz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 74,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 586,
+          "like_count": 9946,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 233
+        },
+        "url": "",
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

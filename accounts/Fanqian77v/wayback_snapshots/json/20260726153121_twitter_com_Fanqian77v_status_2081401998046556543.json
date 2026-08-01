@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081401998046556543",
+    "created_at": "2026-07-26T15:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081401998046556543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081401998046556543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉开始嗑药搞dlx以后人生的重点就完全不一样了。以前很自卑觉得自己长得很丑家里还穷，从我知道画画可以赚钱开始我就拼命画画，我的努力带来了进步跟钱，还认识了一堆朋友，我想要继续画下去一直画下去直到变成很厉害的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081401998046556543",
+        "created_at": "2026-07-26T15:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081401998046556543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081401998046556543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉开始嗑药搞dlx以后人生的重点就完全不一样了。以前很自卑觉得自己长得很丑家里还穷，从我知道画画可以赚钱开始我就拼命画画，我的努力带来了进步跟钱，还认识了一堆朋友，我想要继续画下去一直画下去直到变成很厉害的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 776,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079046268815638528"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2079046313229111734",
+    "created_at": "2026-07-20T03:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079046313229111734"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 10,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "地雷系"
+        },
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dkxPZHufA1",
+          "end": 51,
+          "expanded_url": "https://x.com/Fanqian77v/status/2079046313229111734/video/1",
+          "media_key": "13_2079046268815638528",
+          "start": 28,
+          "url": "https://t.co/dkxPZHufA1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079046313229111734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个女孩终于化妆了\n#自撮り界隈\n#地雷系 \n#雰囲気 https://t.co/dkxPZHufA1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11122,
+        "height": 1280,
+        "media_key": "13_2079046268815638528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079046268815638528/img/asfW_4XbNRHsIyZ5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079046268815638528/vid/avc1/320x568/OmA2_iNufNHKBI-q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079046268815638528/vid/avc1/480x852/6dmKUq_eBrjviO72.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079046268815638528/vid/avc1/720x1280/EkUtWoL4AK3FFL46.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079046268815638528/pl/202UuGcYW7JaN3f8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079046268815638528"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2079046313229111734",
+        "created_at": "2026-07-20T03:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079046313229111734"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 10,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "地雷系"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkxPZHufA1",
+              "end": 51,
+              "expanded_url": "https://x.com/Fanqian77v/status/2079046313229111734/video/1",
+              "media_key": "13_2079046268815638528",
+              "start": 28,
+              "url": "https://t.co/dkxPZHufA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079046313229111734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个女孩终于化妆了\n#自撮り界隈\n#地雷系 \n#雰囲気 https://t.co/dkxPZHufA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 73,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

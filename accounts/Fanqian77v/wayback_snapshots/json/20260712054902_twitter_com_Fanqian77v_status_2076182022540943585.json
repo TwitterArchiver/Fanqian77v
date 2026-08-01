@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076182001066057728"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2076182022540943585",
+    "created_at": "2026-07-12T05:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076182022540943585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9S6lp0xus",
+          "end": 31,
+          "expanded_url": "https://x.com/Fanqian77v/status/2076182022540943585/photo/1",
+          "media_key": "3_2076182001066057728",
+          "start": 8,
+          "url": "https://t.co/w9S6lp0xus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076182022540943585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我收到这套了😋 https://t.co/w9S6lp0xus"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2076182001066057728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAUh6aaIAAEFfx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076182001066057728"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2076182022540943585",
+        "created_at": "2026-07-12T05:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076182022540943585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9S6lp0xus",
+              "end": 31,
+              "expanded_url": "https://x.com/Fanqian77v/status/2076182022540943585/photo/1",
+              "media_key": "3_2076182001066057728",
+              "start": 8,
+              "url": "https://t.co/w9S6lp0xus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076182022540943585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我收到这套了😋 https://t.co/w9S6lp0xus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 72,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

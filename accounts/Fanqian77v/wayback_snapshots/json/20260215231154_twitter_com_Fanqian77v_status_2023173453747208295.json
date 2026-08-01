@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023156051047264257",
+        "3_2023156051055669248"
+      ],
+      "media_source_tweet_id": [
+        "2023156061319094709",
+        "2023156061319094709"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2023173453747208295",
+    "created_at": "2026-02-15T23:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T00:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023173453747208295"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "女s"
+        },
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "女高中生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780886139131621376",
+          "start": 3,
+          "username": "NyA_0081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OPYCWFa9uL",
+          "end": 47,
+          "expanded_url": "https://x.com/NyA_0081/status/2023156061319094709/photo/1",
+          "media_key": "3_2023156051047264257",
+          "start": 24,
+          "url": "https://t.co/OPYCWFa9uL"
+        },
+        {
+          "display_url": "pic.x.com/OPYCWFa9uL",
+          "end": 47,
+          "expanded_url": "https://x.com/NyA_0081/status/2023156061319094709/photo/1",
+          "media_key": "3_2023156051055669248",
+          "start": 24,
+          "url": "https://t.co/OPYCWFa9uL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023173453747208295",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023156061319094709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NyA_0081: #女s #女高中生 https://t.co/OPYCWFa9uL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023173453747208295].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023173453747208295",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023173453747208295"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023156051047264257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOxtZPasAEMgG4.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2023156051055669248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOxtZRa8AARdmZ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023156051047264257",
+            "3_2023156051055669248"
+          ]
+        },
+        "author_id": "1780886139131621376",
+        "conversation_id": "2023156061319094709",
+        "created_at": "2026-02-15T22:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023156061319094709"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "女s"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "女高中生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPYCWFa9uL",
+              "end": 33,
+              "expanded_url": "https://x.com/NyA_0081/status/2023156061319094709/photo/1",
+              "media_key": "3_2023156051047264257",
+              "start": 10,
+              "url": "https://t.co/OPYCWFa9uL"
+            },
+            {
+              "display_url": "pic.x.com/OPYCWFa9uL",
+              "end": 33,
+              "expanded_url": "https://x.com/NyA_0081/status/2023156061319094709/photo/1",
+              "media_key": "3_2023156051055669248",
+              "start": 10,
+              "url": "https://t.co/OPYCWFa9uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023156061319094709",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#女s #女高中生 https://t.co/OPYCWFa9uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773144258910081024/MV5SJwKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 65,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T09:09:39.000Z",
+        "description": "门槛188   只有日常只是给你一个认识我的机会而已",
+        "id": "1780886139131621376",
+        "name": "探花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023157713153433600/NQ8kDrH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 52,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 49
+        },
+        "username": "NyA_0081",
+        "verified": false
+      }
+    ]
+  }
+}

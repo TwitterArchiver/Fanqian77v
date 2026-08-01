@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2074966755454156856",
+    "created_at": "2026-07-09T04:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075073582644781526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060627239654629376",
+          "start": 0,
+          "username": "ashdieds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075073582644781526",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074966755454156856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashdieds 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074665877257986048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqxn5GWIAArCLs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2074966755454156856",
+        "created_at": "2026-07-09T04:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075073582644781526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060627239654629376",
+              "start": 0,
+              "username": "ashdieds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075073582644781526",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074966755454156856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashdieds 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074665877257986048"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2074966755454156856",
+        "created_at": "2026-07-08T21:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074966755454156856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKyaVHHtTR",
+              "end": 40,
+              "expanded_url": "https://x.com/ashdieds/status/2074966755454156856/photo/1",
+              "media_key": "3_2074665877257986048",
+              "start": 17,
+              "url": "https://t.co/cKyaVHHtTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074966755454156856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年变故可真是多啊 祝我生日快乐 https://t.co/cKyaVHHtTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n好友位88\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 68,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵妹，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2070528489481019462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 164,
+          "like_count": 915,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

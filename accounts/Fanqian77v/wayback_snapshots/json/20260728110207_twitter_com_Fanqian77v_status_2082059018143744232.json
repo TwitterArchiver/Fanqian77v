@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Fukuoka",
+          "id": "1009168505252352000",
+          "name": "Fukuoka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sapporo",
+          "id": "1009884650444021760",
+          "name": "Sapporo"
+        }
+      }
+    ],
+    "conversation_id": "2082059018143744232",
+    "created_at": "2026-07-28T11:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082059018143744232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_reflem/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/_reflem/status/2082053203991097675",
+          "start": 6,
+          "url": "https://t.co/eBl7Hqsgvr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082059018143744232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082053203991097675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要这件 https://t.co/eBl7Hqsgvr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082053194096824320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTwWU2b0AAnlwG.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082053194159620096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTwWVFaAAAGdfe.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082053194117754880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTwWU7bMAAf7gI.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082053194159710208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTwWVFbYAAPh2t.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "2082059018143744232",
+        "created_at": "2026-07-28T11:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082059018143744232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_reflem/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/_reflem/status/2082053203991097675",
+              "start": 6,
+              "url": "https://t.co/eBl7Hqsgvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082059018143744232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082053203991097675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要这件 https://t.co/eBl7Hqsgvr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082053194096824320",
+            "3_2082053194159620096",
+            "3_2082053194117754880",
+            "3_2082053194159710208"
+          ]
+        },
+        "author_id": "995700590289174529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "2082053203991097675",
+        "created_at": "2026-07-28T10:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082053203991097675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "reflem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9LbuRDnyy3",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2082053203991097675/photo/1",
+              "media_key": "3_2082053194096824320",
+              "start": 101,
+              "url": "https://t.co/9LbuRDnyy3"
+            },
+            {
+              "display_url": "pic.x.com/9LbuRDnyy3",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2082053203991097675/photo/1",
+              "media_key": "3_2082053194159620096",
+              "start": 101,
+              "url": "https://t.co/9LbuRDnyy3"
+            },
+            {
+              "display_url": "pic.x.com/9LbuRDnyy3",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2082053203991097675/photo/1",
+              "media_key": "3_2082053194117754880",
+              "start": 101,
+              "url": "https://t.co/9LbuRDnyy3"
+            },
+            {
+              "display_url": "pic.x.com/9LbuRDnyy3",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2082053203991097675/photo/1",
+              "media_key": "3_2082053194159710208",
+              "start": 101,
+              "url": "https://t.co/9LbuRDnyy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082053203991097675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1255,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "👁‍🗨REFLEM(レフレム)\nNEW ARRIVAL\n\nカットデザインワンショルトップス\n¥7,590\n\n7月30日（木）発売。\n※札幌、福岡は配送遅延の為遅れる場合が御座います。\n\n#reflem https://t.co/9LbuRDnyy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 80,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-13T16:21:34.000Z",
+        "description": "-More than dark- MADな世界観やオーバースペックディテール どこまでもリアルなデザインから叙情的なメッセージを発信し続ける ノージェンダーウェアブランド。",
+        "id": "995700590289174529",
+        "name": "REFLEM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1009990947533348864/Smwp1Cia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35143,
+          "following_count": 0,
+          "like_count": 6373,
+          "listed_count": 314,
+          "media_count": 3103,
+          "tweet_count": 4298
+        },
+        "url": "",
+        "username": "_REFLEM",
+        "verified": false
+      }
+    ]
+  }
+}

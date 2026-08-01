@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057409641672593408"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2057409707892211987",
+    "created_at": "2026-05-21T10:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057409707892211987"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "地雷系女子"
+        },
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yzfx64u1zv",
+          "end": 42,
+          "expanded_url": "https://x.com/Fanqian77v/status/2057409707892211987/video/1",
+          "media_key": "13_2057409641672593408",
+          "start": 19,
+          "url": "https://t.co/Yzfx64u1zv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057409707892211987",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈\n#地雷系女子\n#雰囲気 https://t.co/Yzfx64u1zv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5303,
+        "height": 1280,
+        "media_key": "13_2057409641672593408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057409641672593408/img/u-mEShYyRBb1BvFA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057409641672593408/vid/avc1/320x568/Rnij0X1H9V_xaC4v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057409641672593408/vid/avc1/480x852/nAFZEht3B4c7R7Af.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057409641672593408/vid/avc1/720x1280/G_cz7m80KlY3iG8L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057409641672593408/pl/5gj4ceCKf8OTjowI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057409641672593408"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2057409707892211987",
+        "created_at": "2026-05-21T10:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057409707892211987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yzfx64u1zv",
+              "end": 42,
+              "expanded_url": "https://x.com/Fanqian77v/status/2057409707892211987/video/1",
+              "media_key": "13_2057409641672593408",
+              "start": 19,
+              "url": "https://t.co/Yzfx64u1zv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057409707892211987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈\n#地雷系女子\n#雰囲気 https://t.co/Yzfx64u1zv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 55,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 154
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2082469766934192430",
+    "created_at": "2026-07-29T14:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082469766934192430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nya_0081/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/nya_0081/status/2082468910117670952",
+          "start": 4,
+          "url": "https://t.co/TLUHBckeN8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082469766934192430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082468910117670952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我爱你 https://t.co/TLUHBckeN8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082468891348115456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZqbFybIAAvIGY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2082469766934192430",
+        "created_at": "2026-07-29T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082469766934192430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nya_0081/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/nya_0081/status/2082468910117670952",
+              "start": 4,
+              "url": "https://t.co/TLUHBckeN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082469766934192430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082468910117670952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我爱你 https://t.co/TLUHBckeN8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082468891348115456"
+          ]
+        },
+        "author_id": "1780886139131621376",
+        "conversation_id": "2082468910117670952",
+        "created_at": "2026-07-29T14:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082468910117670952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JrlyK0qlvY",
+              "end": 40,
+              "expanded_url": "https://x.com/NyA_0081/status/2082468910117670952/photo/1",
+              "media_key": "3_2082468891348115456",
+              "start": 17,
+              "url": "https://t.co/JrlyK0qlvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468910117670952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あなたが幸せでいてくれたら嬉しい https://t.co/JrlyK0qlvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 92,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T09:09:39.000Z",
+        "description": "查成分回关",
+        "id": "1780886139131621376",
+        "name": "銀花",
+        "pinned_tweet_id": "2082468910117670952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082467795217121281/0Z4g6-_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 60,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "NyA_0081",
+        "verified": false
+      }
+    ]
+  }
+}

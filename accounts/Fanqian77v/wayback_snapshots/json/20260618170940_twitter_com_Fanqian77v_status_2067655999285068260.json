@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2067655999285068260",
+    "created_at": "2026-06-18T17:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067655999285068260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kry_official_/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/kry_official_/status/2067640556080320973",
+          "start": 9,
+          "url": "https://t.co/aP42cFEQNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067655999285068260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067640556080320973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽真的要出皮的 https://t.co/aP42cFEQNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2067640550032068608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG8IBva0AAsogq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2067655999285068260",
+        "created_at": "2026-06-18T17:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067655999285068260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kry_official_/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/kry_official_/status/2067640556080320973",
+              "start": 9,
+              "url": "https://t.co/aP42cFEQNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067655999285068260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067640556080320973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽真的要出皮的 https://t.co/aP42cFEQNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067640550032068608"
+          ]
+        },
+        "author_id": "2353567248",
+        "conversation_id": "2067640556080320973",
+        "created_at": "2026-06-18T16:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067640556080320973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/418VnXOWsA",
+              "end": 23,
+              "expanded_url": "https://x.com/KRY_official_/status/2067640556080320973/photo/1",
+              "media_key": "3_2067640550032068608",
+              "start": 0,
+              "url": "https://t.co/418VnXOWsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640556080320973",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 908,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/418VnXOWsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n门槛88｜你会获得一堆无聊的日常\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 68,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 191
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIV9DQx ††††††††††††《原宿竹下通り店》 https://t.co/ghhIvV2tpS††††††††††††《TikTok》https://t.co/eWpnFHrnbZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIV9DQx"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 80,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 57,
+                "url": "https://t.co/ghhIvV2tpS"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing",
+                "end": 123,
+                "expanded_url": "https://www.tiktok.com/@kryclothing",
+                "start": 100,
+                "url": "https://t.co/eWpnFHrnbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXfMq6"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "location": "TOKYO",
+        "name": "KRYclothing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70638,
+          "following_count": 20030,
+          "like_count": 107809,
+          "listed_count": 543,
+          "media_count": 35350,
+          "tweet_count": 107769
+        },
+        "url": "https://t.co/tizARXfMq6",
+        "username": "KRY_official_",
+        "verified": true
+      }
+    ]
+  }
+}

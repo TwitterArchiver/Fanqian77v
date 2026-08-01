@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034325122660831232",
+        "3_2034325122656636928"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034325131389219322",
+    "created_at": "2026-03-18T17:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T18:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034325131389219322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eY4CS4jh1k",
+          "end": 28,
+          "expanded_url": "https://x.com/Fanqian77v/status/2034325131389219322/photo/1",
+          "media_key": "3_2034325122660831232",
+          "start": 5,
+          "url": "https://t.co/eY4CS4jh1k"
+        },
+        {
+          "display_url": "pic.x.com/eY4CS4jh1k",
+          "end": 28,
+          "expanded_url": "https://x.com/Fanqian77v/status/2034325131389219322/photo/1",
+          "media_key": "3_2034325122656636928",
+          "start": 5,
+          "url": "https://t.co/eY4CS4jh1k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034325131389219322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啦啦啦啦 https://t.co/eY4CS4jh1k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034325122660831232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtf67XaEAAaKMw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034325122656636928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtf67WaEAAcTmd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034325122660831232",
+            "3_2034325122656636928"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034325131389219322",
+        "created_at": "2026-03-18T17:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034325131389219322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eY4CS4jh1k",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2034325131389219322/photo/1",
+              "media_key": "3_2034325122660831232",
+              "start": 5,
+              "url": "https://t.co/eY4CS4jh1k"
+            },
+            {
+              "display_url": "pic.x.com/eY4CS4jh1k",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2034325131389219322/photo/1",
+              "media_key": "3_2034325122656636928",
+              "start": 5,
+              "url": "https://t.co/eY4CS4jh1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034325131389219322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦啦 https://t.co/eY4CS4jh1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q\n喜欢我就给我打钱吧！",
+        "id": "1773143737423847424",
+        "location": "188 无福利只是好友位➕朋友圈日常",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 61,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 84
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054040139513688064",
+        "3_2054040139484286976",
+        "3_2054040139488522240"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2054040215447343174",
+    "created_at": "2026-05-12T03:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054040215447343174"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 8,
+          "tag": "galfy"
+        },
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "dualism"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWUb2INtmZ",
+          "end": 48,
+          "expanded_url": "https://x.com/Fanqian77v/status/2054040215447343174/photo/1",
+          "media_key": "3_2054040139513688064",
+          "start": 25,
+          "url": "https://t.co/xWUb2INtmZ"
+        },
+        {
+          "display_url": "pic.x.com/xWUb2INtmZ",
+          "end": 48,
+          "expanded_url": "https://x.com/Fanqian77v/status/2054040215447343174/photo/1",
+          "media_key": "3_2054040139484286976",
+          "start": 25,
+          "url": "https://t.co/xWUb2INtmZ"
+        },
+        {
+          "display_url": "pic.x.com/xWUb2INtmZ",
+          "end": 48,
+          "expanded_url": "https://x.com/Fanqian77v/status/2054040215447343174/photo/1",
+          "media_key": "3_2054040139488522240",
+          "start": 25,
+          "url": "https://t.co/xWUb2INtmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054040215447343174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太可爱了😭😭😭\n#galfy  #dualism https://t.co/xWUb2INtmZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054040139513688064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFqn8YbcAAx_1L.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054040139484286976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFqn8Ra0AAXd_N.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2054040139488522240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFqn8SbcAAovgM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054040139513688064",
+            "3_2054040139484286976",
+            "3_2054040139488522240"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2054040215447343174",
+        "created_at": "2026-05-12T03:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054040215447343174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "galfy"
+            },
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "dualism"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWUb2INtmZ",
+              "end": 48,
+              "expanded_url": "https://x.com/Fanqian77v/status/2054040215447343174/photo/1",
+              "media_key": "3_2054040139513688064",
+              "start": 25,
+              "url": "https://t.co/xWUb2INtmZ"
+            },
+            {
+              "display_url": "pic.x.com/xWUb2INtmZ",
+              "end": 48,
+              "expanded_url": "https://x.com/Fanqian77v/status/2054040215447343174/photo/1",
+              "media_key": "3_2054040139484286976",
+              "start": 25,
+              "url": "https://t.co/xWUb2INtmZ"
+            },
+            {
+              "display_url": "pic.x.com/xWUb2INtmZ",
+              "end": 48,
+              "expanded_url": "https://x.com/Fanqian77v/status/2054040215447343174/photo/1",
+              "media_key": "3_2054040139488522240",
+              "start": 25,
+              "url": "https://t.co/xWUb2INtmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054040215447343174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太可爱了😭😭😭\n#galfy  #dualism https://t.co/xWUb2INtmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 138
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027012060769558528"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2027012078373155279",
+    "created_at": "2026-02-26T13:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T14:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027012078373155279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "995700590289174529",
+          "start": 0,
+          "username": "_REFLEM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ssYQfKwpkU",
+          "end": 57,
+          "expanded_url": "https://x.com/Fanqian77v/status/2027012078373155279/photo/1",
+          "media_key": "3_2027012060769558528",
+          "start": 34,
+          "url": "https://t.co/ssYQfKwpkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027012078373155279",
+    "in_reply_to_user_id": "995700590289174529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@_REFLEM 希望能再贩这个，很多人都在二手软件上收，但都没货 https://t.co/ssYQfKwpkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2027012060769558528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFkus2aIAA44Fn.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027012060769558528"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2027012078373155279",
+        "created_at": "2026-02-26T13:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027012078373155279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "995700590289174529",
+              "start": 0,
+              "username": "_REFLEM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ssYQfKwpkU",
+              "end": 57,
+              "expanded_url": "https://x.com/Fanqian77v/status/2027012078373155279/photo/1",
+              "media_key": "3_2027012060769558528",
+              "start": 34,
+              "url": "https://t.co/ssYQfKwpkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027012078373155279",
+        "in_reply_to_user_id": "995700590289174529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@_REFLEM 希望能再贩这个，很多人都在二手软件上收，但都没货 https://t.co/ssYQfKwpkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 43
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-13T16:21:34.000Z",
+        "description": "-More than dark- MADな世界観やオーバースペックディテール どこまでもリアルなデザインから叙情的なメッセージを発信し続ける ノージェンダーウェアブランド。",
+        "id": "995700590289174529",
+        "name": "REFLEM",
+        "pinned_tweet_id": "1932670280620781768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1009990947533348864/Smwp1Cia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32256,
+          "following_count": 1,
+          "like_count": 6001,
+          "listed_count": 302,
+          "media_count": 2860,
+          "tweet_count": 4035
+        },
+        "username": "_REFLEM",
+        "verified": false
+      }
+    ]
+  }
+}

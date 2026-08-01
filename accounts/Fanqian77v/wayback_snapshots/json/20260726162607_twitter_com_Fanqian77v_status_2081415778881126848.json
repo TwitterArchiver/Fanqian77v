@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081353354765369523",
+    "created_at": "2026-07-26T16:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081415778881126848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000501337143033856",
+          "start": 0,
+          "username": "wangwihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081415778881126848",
+    "in_reply_to_user_id": "2000501337143033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081353354765369523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwihd 关我屁屁。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081353354765369523",
+        "created_at": "2026-07-26T16:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081415778881126848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000501337143033856",
+              "start": 0,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081415778881126848",
+        "in_reply_to_user_id": "2000501337143033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081353354765369523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwihd 关我屁屁。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000501337143033856",
+        "conversation_id": "2081353354765369523",
+        "created_at": "2026-07-26T12:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081353354765369523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081353354765369523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 645,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比较想知道大家如果被完全不认识的人讨厌会有什么感想？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 72,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T09:42:33.000Z",
+        "description": "小号：@wihdwang \n匿名箱：https://t.co/dtlOjIRHoS \n之前的号是after17，被盗掉了。\n这个号之前的名字是三千年前，我换掉了。IG:vivvvvee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "wihdwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/runtome1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/runtome1",
+                "start": 18,
+                "url": "https://t.co/dtlOjIRHoS"
+              }
+            ]
+          }
+        },
+        "id": "2000501337143033856",
+        "name": "苹果核",
+        "pinned_tweet_id": "2000919471280808410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055680642789281792/4RB2h5ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 151,
+          "like_count": 3684,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "wangwihd",
+        "verified": false
+      }
+    ]
+  }
+}

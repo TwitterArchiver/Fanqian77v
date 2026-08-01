@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2034846403999277575",
+    "created_at": "2026-03-20T04:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034846403999277575"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034846403999277575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟女友分开之后瘦了6斤…然后我打算买替西扎到80斤🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2034846403999277575",
+        "created_at": "2026-03-20T04:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034846403999277575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034846403999277575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟女友分开之后瘦了6斤…然后我打算买替西扎到80斤🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q\n喜欢我就给我打钱吧！",
+        "id": "1773143737423847424",
+        "location": "188 无福利只是好友位➕朋友圈日常",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 86
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

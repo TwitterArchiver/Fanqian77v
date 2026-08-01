@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2082409924974596135",
+    "created_at": "2026-07-30T03:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082667247017857143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803762329169080320",
+          "start": 0,
+          "username": "SaikiiiiKusuooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082667247017857143",
+    "in_reply_to_user_id": "1803762329169080320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082409924974596135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaikiiiiKusuooo 这是真有钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082409916980154368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY0yVJaUAAkzr6.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2082409924974596135",
+        "created_at": "2026-07-30T03:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082667247017857143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803762329169080320",
+              "start": 0,
+              "username": "SaikiiiiKusuooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082667247017857143",
+        "in_reply_to_user_id": "1803762329169080320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082409924974596135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaikiiiiKusuooo 这是真有钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082409916980154368"
+          ]
+        },
+        "author_id": "1803762329169080320",
+        "conversation_id": "2082409924974596135",
+        "created_at": "2026-07-29T10:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082409924974596135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73Pb2owhJa",
+              "end": 34,
+              "expanded_url": "https://x.com/SaikiiiiKusuooo/status/2082409924974596135/photo/1",
+              "media_key": "3_2082409916980154368",
+              "start": 11,
+              "url": "https://t.co/73Pb2owhJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082409924974596135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2282,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人有钱了会有一些预兆 https://t.co/73Pb2owhJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 92,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T12:10:36.000Z",
+        "description": "",
+        "id": "1803762329169080320",
+        "name": "Kakaroo",
+        "pinned_tweet_id": "1949390169377005981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069409788640075776/etJW2cFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 165,
+          "like_count": 10145,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4692
+        },
+        "url": "",
+        "username": "SaikiiiiKusuooo",
+        "verified": false
+      }
+    ]
+  }
+}

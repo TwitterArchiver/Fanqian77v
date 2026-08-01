@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025505712479318016"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2025505726198882520",
+    "created_at": "2026-02-22T09:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025505726198882520"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tdQn19f4x5",
+          "end": 52,
+          "expanded_url": "https://x.com/Fanqian77v/status/2025505726198882520/photo/1",
+          "media_key": "3_2025505712479318016",
+          "start": 29,
+          "url": "https://t.co/tdQn19f4x5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025505726198882520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天跟女盆友一起吃好吃的了\n\n#自撮り界隈 #地雷系女子 https://t.co/tdQn19f4x5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025505712479318016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwKtsLasAAe56Q.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025505712479318016"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2025505726198882520",
+        "created_at": "2026-02-22T09:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025505726198882520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdQn19f4x5",
+              "end": 52,
+              "expanded_url": "https://x.com/Fanqian77v/status/2025505726198882520/photo/1",
+              "media_key": "3_2025505712479318016",
+              "start": 29,
+              "url": "https://t.co/tdQn19f4x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025505726198882520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟女盆友一起吃好吃的了\n\n#自撮り界隈 #地雷系女子 https://t.co/tdQn19f4x5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

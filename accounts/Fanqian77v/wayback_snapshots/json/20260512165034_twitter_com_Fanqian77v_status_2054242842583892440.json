@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054242821595615234"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054242842583892440",
+    "created_at": "2026-05-12T16:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T17:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054242842583892440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aMQhuehNpS",
+          "end": 26,
+          "expanded_url": "https://x.com/Fanqian77v/status/2054242842583892440/photo/1",
+          "media_key": "3_2054242821595615234",
+          "start": 3,
+          "url": "https://t.co/aMQhuehNpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054242842583892440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚饭 https://t.co/aMQhuehNpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054242821595615234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIi9l-aUAIZEZS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054242821595615234"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054242842583892440",
+        "created_at": "2026-05-12T16:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054242842583892440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aMQhuehNpS",
+              "end": 26,
+              "expanded_url": "https://x.com/Fanqian77v/status/2054242842583892440/photo/1",
+              "media_key": "3_2054242821595615234",
+              "start": 3,
+              "url": "https://t.co/aMQhuehNpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054242842583892440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚饭 https://t.co/aMQhuehNpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 142
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

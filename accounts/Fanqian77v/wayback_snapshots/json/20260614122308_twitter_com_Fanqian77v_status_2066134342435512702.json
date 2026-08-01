@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066134185535004672",
+        "3_2066134185501446146",
+        "3_2066134185505656832",
+        "3_2066134186017398784"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066134342435512702",
+    "created_at": "2026-06-14T12:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066134342435512702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZGLGF6vzh",
+          "end": 28,
+          "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+          "media_key": "3_2066134185535004672",
+          "start": 5,
+          "url": "https://t.co/pZGLGF6vzh"
+        },
+        {
+          "display_url": "pic.x.com/pZGLGF6vzh",
+          "end": 28,
+          "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+          "media_key": "3_2066134185501446146",
+          "start": 5,
+          "url": "https://t.co/pZGLGF6vzh"
+        },
+        {
+          "display_url": "pic.x.com/pZGLGF6vzh",
+          "end": 28,
+          "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+          "media_key": "3_2066134185505656832",
+          "start": 5,
+          "url": "https://t.co/pZGLGF6vzh"
+        },
+        {
+          "display_url": "pic.x.com/pZGLGF6vzh",
+          "end": 28,
+          "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+          "media_key": "3_2066134186017398784",
+          "start": 5,
+          "url": "https://t.co/pZGLGF6vzh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066134342435512702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美食合集 https://t.co/pZGLGF6vzh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2066134185535004672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxiGEsa4AADqBY.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066134185501446146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxiGEka0AIVSUe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066134185505656832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxiGElbEAAG1Uv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066134186017398784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxiGGfboAA7Um5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066134185535004672",
+            "3_2066134185501446146",
+            "3_2066134185505656832",
+            "3_2066134186017398784"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066134342435512702",
+        "created_at": "2026-06-14T12:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066134342435512702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZGLGF6vzh",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+              "media_key": "3_2066134185535004672",
+              "start": 5,
+              "url": "https://t.co/pZGLGF6vzh"
+            },
+            {
+              "display_url": "pic.x.com/pZGLGF6vzh",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+              "media_key": "3_2066134185501446146",
+              "start": 5,
+              "url": "https://t.co/pZGLGF6vzh"
+            },
+            {
+              "display_url": "pic.x.com/pZGLGF6vzh",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+              "media_key": "3_2066134185505656832",
+              "start": 5,
+              "url": "https://t.co/pZGLGF6vzh"
+            },
+            {
+              "display_url": "pic.x.com/pZGLGF6vzh",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2066134342435512702/photo/1",
+              "media_key": "3_2066134186017398784",
+              "start": 5,
+              "url": "https://t.co/pZGLGF6vzh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066134342435512702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美食合集 https://t.co/pZGLGF6vzh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧！\n门槛188｜你会获得一堆无聊的日常\n只o不g",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 65,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 196
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

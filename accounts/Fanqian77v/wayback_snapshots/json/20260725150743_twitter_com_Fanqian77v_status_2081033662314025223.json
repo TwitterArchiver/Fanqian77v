@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2080998405472747735",
+    "created_at": "2026-07-25T15:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081033662314025223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1459739256918708229",
+          "start": 0,
+          "username": "zcsssg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081033662314025223",
+    "in_reply_to_user_id": "1459739256918708229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080998405472747735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zcsssg 顶级享受"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2080998380151697408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOExAEsa8AAyZsY.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2080998380155904000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOExAEtbIAABI1A.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2080998380587859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOExAGUaQAAxJyL.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2080998380160094208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOExAEubEAALc03.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2080998405472747735",
+        "created_at": "2026-07-25T15:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081033662314025223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1459739256918708229",
+              "start": 0,
+              "username": "zcsssg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081033662314025223",
+        "in_reply_to_user_id": "1459739256918708229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080998405472747735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zcsssg 顶级享受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080998380151697408",
+            "3_2080998380155904000",
+            "3_2080998380587859968",
+            "3_2080998380160094208"
+          ]
+        },
+        "author_id": "1459739256918708229",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080998405472747735",
+        "created_at": "2026-07-25T12:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080998405472747735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnLewEafS6",
+              "end": 49,
+              "expanded_url": "https://x.com/zcsssg/status/2080998405472747735/photo/1",
+              "media_key": "3_2080998380151697408",
+              "start": 26,
+              "url": "https://t.co/ZnLewEafS6"
+            },
+            {
+              "display_url": "pic.x.com/ZnLewEafS6",
+              "end": 49,
+              "expanded_url": "https://x.com/zcsssg/status/2080998405472747735/photo/1",
+              "media_key": "3_2080998380155904000",
+              "start": 26,
+              "url": "https://t.co/ZnLewEafS6"
+            },
+            {
+              "display_url": "pic.x.com/ZnLewEafS6",
+              "end": 49,
+              "expanded_url": "https://x.com/zcsssg/status/2080998405472747735/photo/1",
+              "media_key": "3_2080998380587859968",
+              "start": 26,
+              "url": "https://t.co/ZnLewEafS6"
+            },
+            {
+              "display_url": "pic.x.com/ZnLewEafS6",
+              "end": 49,
+              "expanded_url": "https://x.com/zcsssg/status/2080998405472747735/photo/1",
+              "media_key": "3_2080998380160094208",
+              "start": 26,
+              "url": "https://t.co/ZnLewEafS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080998405472747735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1606,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两天两顿寿司郎，一个人一顿吃了400一顿吃了200 https://t.co/ZnLewEafS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T04:25:44.000Z",
+        "description": "In case I don't see you, good afternoon, good evening, and good night.",
+        "id": "1459739256918708229",
+        "location": "上海",
+        "name": "Camille",
+        "pinned_tweet_id": "2040403516246929805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004565970514575360/ZaIRj_cL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 822,
+          "like_count": 11419,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "zcsssg",
+        "verified": false
+      }
+    ]
+  }
+}

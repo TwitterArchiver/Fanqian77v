@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081774358306136065",
+    "created_at": "2026-07-27T19:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081824186176315851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077346715313811457",
+          "start": 0,
+          "username": "Huishui666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081824186176315851",
+    "in_reply_to_user_id": "2077346715313811457",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081776713311342822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huishui666 OKOK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081774358306136065",
+        "created_at": "2026-07-27T19:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081824186176315851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077346715313811457",
+              "start": 0,
+              "username": "Huishui666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081824186176315851",
+        "in_reply_to_user_id": "2077346715313811457",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081776713311342822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huishui666 OKOK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077346715313811457",
+        "conversation_id": "2081774358306136065",
+        "created_at": "2026-07-27T16:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081776713311342822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081776713311342822",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081774358306136065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 加吧要少量多次 我就是0.3毫克三颗每隔一小时一次直到药效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 75,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T10:57:49.000Z",
+        "description": "药物的奴隶 cos 双向情感障碍 极致的疯批 类人 伪人 拟人 互fo 互fo 互fo 第n次归来主播因为神奇的原因丢失了n个账号 这次归来我要成为仙界大乘 /这就是我咋啦",
+        "id": "2077346715313811457",
+        "location": "沈",
+        "name": "Huishui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077347394929516544/Co1yaLwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Huishui666",
+        "verified": false
+      }
+    ]
+  }
+}

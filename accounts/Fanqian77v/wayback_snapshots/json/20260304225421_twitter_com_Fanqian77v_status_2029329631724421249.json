@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029329624212357120",
+        "3_2029329624220745728",
+        "3_2029329624216596480",
+        "3_2029329624224952320"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2029329631724421249",
+    "created_at": "2026-03-04T22:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T23:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029329631724421249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lvje4my6CA",
+          "end": 40,
+          "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+          "media_key": "3_2029329624212357120",
+          "start": 17,
+          "url": "https://t.co/lvje4my6CA"
+        },
+        {
+          "display_url": "pic.x.com/lvje4my6CA",
+          "end": 40,
+          "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+          "media_key": "3_2029329624220745728",
+          "start": 17,
+          "url": "https://t.co/lvje4my6CA"
+        },
+        {
+          "display_url": "pic.x.com/lvje4my6CA",
+          "end": 40,
+          "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+          "media_key": "3_2029329624216596480",
+          "start": 17,
+          "url": "https://t.co/lvje4my6CA"
+        },
+        {
+          "display_url": "pic.x.com/lvje4my6CA",
+          "end": 40,
+          "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+          "media_key": "3_2029329624224952320",
+          "start": 17,
+          "url": "https://t.co/lvje4my6CA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029329631724421249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我买哪件呢推友们帮忙选一下可以吗 https://t.co/lvje4my6CA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029329624212357120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmgipdawAAo2wZ.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2029329624220745728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmgipfawAASRma.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1051,
+        "media_key": "3_2029329624216596480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmgipebcAAy-rb.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2029329624224952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCmgipga8AAjs_r.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029329624212357120",
+            "3_2029329624220745728",
+            "3_2029329624216596480",
+            "3_2029329624224952320"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2029329631724421249",
+        "created_at": "2026-03-04T22:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T23:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029329631724421249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvje4my6CA",
+              "end": 40,
+              "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+              "media_key": "3_2029329624212357120",
+              "start": 17,
+              "url": "https://t.co/lvje4my6CA"
+            },
+            {
+              "display_url": "pic.x.com/lvje4my6CA",
+              "end": 40,
+              "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+              "media_key": "3_2029329624220745728",
+              "start": 17,
+              "url": "https://t.co/lvje4my6CA"
+            },
+            {
+              "display_url": "pic.x.com/lvje4my6CA",
+              "end": 40,
+              "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+              "media_key": "3_2029329624216596480",
+              "start": 17,
+              "url": "https://t.co/lvje4my6CA"
+            },
+            {
+              "display_url": "pic.x.com/lvje4my6CA",
+              "end": 40,
+              "expanded_url": "https://x.com/Fanqian77v/status/2029329631724421249/photo/1",
+              "media_key": "3_2029329624224952320",
+              "start": 17,
+              "url": "https://t.co/lvje4my6CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029329631724421249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买哪件呢推友们帮忙选一下可以吗 https://t.co/lvje4my6CA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 51,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 57
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

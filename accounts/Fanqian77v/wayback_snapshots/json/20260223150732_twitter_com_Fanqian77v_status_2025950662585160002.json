@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025875734221500416"
+      ],
+      "media_source_tweet_id": [
+        "2025875743759364134"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2025950662585160002",
+    "created_at": "2026-02-23T15:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025950662585160002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1939626227352174592",
+          "start": 3,
+          "username": "crying_kakashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ULMqjmY9Ae",
+          "end": 43,
+          "expanded_url": "https://x.com/crying_kakashi/status/2025875743759364134/photo/1",
+          "media_key": "3_2025875734221500416",
+          "start": 20,
+          "url": "https://t.co/ULMqjmY9Ae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025950662585160002",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 429
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025875743759364134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crying_kakashi: https://t.co/ULMqjmY9Ae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1830,
+        "media_key": "3_2025875734221500416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1bPylbMAAGcrl.jpg",
+        "width": 1786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025875734221500416"
+          ],
+          "media_source_tweet_id": [
+            "2025875743759364134"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2025950662585160002",
+        "created_at": "2026-02-23T15:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025950662585160002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1939626227352174592",
+              "start": 3,
+              "username": "crying_kakashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULMqjmY9Ae",
+              "end": 43,
+              "expanded_url": "https://x.com/crying_kakashi/status/2025875743759364134/photo/1",
+              "media_key": "3_2025875734221500416",
+              "start": 20,
+              "url": "https://t.co/ULMqjmY9Ae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025950662585160002",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 429
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025875743759364134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crying_kakashi: https://t.co/ULMqjmY9Ae"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025875734221500416"
+          ]
+        },
+        "author_id": "1939626227352174592",
+        "conversation_id": "2025875743759364134",
+        "created_at": "2026-02-23T10:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025875743759364134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULMqjmY9Ae",
+              "end": 23,
+              "expanded_url": "https://x.com/crying_kakashi/status/2025875743759364134/photo/1",
+              "media_key": "3_2025875734221500416",
+              "start": 0,
+              "url": "https://t.co/ULMqjmY9Ae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025875743759364134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 26170,
+          "like_count": 2582,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 429
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ULMqjmY9Ae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 48,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 24
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:05:19.000Z",
+        "description": "카카시와 카카시 그리고... 카카시",
+        "id": "1939626227352174592",
+        "location": "Ai🚫",
+        "name": "범고래",
+        "pinned_tweet_id": "2023739115917979789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015469779377864704/Y4t4F4Gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 16,
+          "like_count": 659,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 85
+        },
+        "username": "crying_kakashi",
+        "verified": false
+      }
+    ]
+  }
+}

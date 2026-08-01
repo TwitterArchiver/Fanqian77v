@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2049461417540297148",
+    "created_at": "2026-04-29T12:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049461417540297148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2516810545",
+          "start": 3,
+          "username": "QOOZA_JP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049461417540297148",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049066091289432107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QOOZA_JP: ❤︎𝙸𝙼𝚅𝙰𝙻×𝙶𝙰𝙻𝙵𝚈 ❤︎\n𝟹𝚛𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗が決定！\n\n大注目のラインナップをお見逃しなく✨\n\n◾発売日：2026/5/1（Fri）11:00- 発売\nQOOZAオンラインショップ＆ラフォーレ原宿店で同時発売✦ https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2047569327306821632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGptdGcb0AA6APF.jpg",
+        "width": 800
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2047569341189959680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGptd6KbsAAqGKe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2049461417540297148",
+        "created_at": "2026-04-29T12:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049461417540297148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2516810545",
+              "start": 3,
+              "username": "QOOZA_JP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049461417540297148",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049066091289432107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QOOZA_JP: ❤︎𝙸𝙼𝚅𝙰𝙻×𝙶𝙰𝙻𝙵𝚈 ❤︎\n𝟹𝚛𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗が決定！\n\n大注目のラインナップをお見逃しなく✨\n\n◾発売日：2026/5/1（Fri）11:00- 発売\nQOOZAオンラインショップ＆ラフォーレ原宿店で同時発売✦ https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047569327306821632",
+            "3_2047569341189959680"
+          ]
+        },
+        "author_id": "2516810545",
+        "conversation_id": "2049066091289432107",
+        "created_at": "2026-04-28T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049066091289432107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTU3QSafXc",
+              "end": 141,
+              "expanded_url": "https://x.com/QOOZA_JP/status/2049066091289432107/photo/1",
+              "media_key": "3_2047569327306821632",
+              "start": 118,
+              "url": "https://t.co/VTU3QSafXc"
+            },
+            {
+              "display_url": "pic.x.com/VTU3QSafXc",
+              "end": 141,
+              "expanded_url": "https://x.com/QOOZA_JP/status/2049066091289432107/photo/1",
+              "media_key": "3_2047569341189959680",
+              "start": 118,
+              "url": "https://t.co/VTU3QSafXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049066091289432107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 36918,
+          "like_count": 761,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "❤︎𝙸𝙼𝚅𝙰𝙻×𝙶𝙰𝙻𝙵𝚈 ❤︎\n𝟹𝚛𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗が決定！\n\n大注目のラインナップをお見逃しなく✨\n\n◾発売日：2026/5/1（Fri）11:00- 発売\nQOOZAオンラインショップ＆ラフォーレ原宿店で同時発売✦ https://t.co/VTU3QSafXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 56,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 128
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-23T01:35:24.000Z",
+        "description": "ヴィラン系ファッション「QOOZA(クーザ)」\nダークファンタジーやアンダーグラウンドな世界観が混合するファッションブランド。“心の鎧”となるオリジナルブランド「IMVAL」も展開。\n\n・ ラフォーレ店 ⇒ @QOOZA_laforet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "QOOZA_laforet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qooza.jp",
+                "end": 23,
+                "expanded_url": "https://qooza.jp",
+                "start": 0,
+                "url": "https://t.co/MDM9ebtEdU"
+              }
+            ]
+          }
+        },
+        "id": "2516810545",
+        "location": "大阪府大阪市",
+        "name": "QOOZA【クーザ】",
+        "pinned_tweet_id": "2043637821592813814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223584271597572099/5txPtOOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76906,
+          "following_count": 20982,
+          "like_count": 11039,
+          "listed_count": 787,
+          "media_count": 45434,
+          "tweet_count": 58051
+        },
+        "url": "https://t.co/MDM9ebtEdU",
+        "username": "QOOZA_JP",
+        "verified": true
+      }
+    ]
+  }
+}

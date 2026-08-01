@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081036113964363956",
+    "created_at": "2026-07-25T15:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081036113964363956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fanqian77v/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/fanqian77v/status/2033785769517846830",
+          "start": 15,
+          "url": "https://t.co/Gxj6MJqzhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081036113964363956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033785769517846830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特么这个时候就应该买50盒 https://t.co/Gxj6MJqzhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033785760885977088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDl1X8LbMAAQRW3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081036113964363956",
+        "created_at": "2026-07-25T15:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081036113964363956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanqian77v/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/fanqian77v/status/2033785769517846830",
+              "start": 15,
+              "url": "https://t.co/Gxj6MJqzhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081036113964363956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033785769517846830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特么这个时候就应该买50盒 https://t.co/Gxj6MJqzhb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033785760885977088"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2033785769517846830",
+        "created_at": "2026-03-17T06:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033785769517846830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bk5LhqO8OK",
+              "end": 28,
+              "expanded_url": "https://x.com/Fanqian77v/status/2033785769517846830/photo/1",
+              "media_key": "3_2033785760885977088",
+              "start": 5,
+              "url": "https://t.co/bk5LhqO8OK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033785769517846830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋😋五盒 https://t.co/bk5LhqO8OK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

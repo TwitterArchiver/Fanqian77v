@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2068542259042386028",
+    "created_at": "2026-06-21T11:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068654502916624456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1652985793290604545",
+          "start": 0,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068654502916624456",
+    "in_reply_to_user_id": "1652985793290604545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068542259042386028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuTri77 从2.5开始打不会很难受，没力气低血压什么的是因为没吃东西 在打针期间吃蛋白质掉秤很快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2068542259042386028",
+        "created_at": "2026-06-21T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068654502916624456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1652985793290604545",
+              "start": 0,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068654502916624456",
+        "in_reply_to_user_id": "1652985793290604545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068542259042386028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuTri77 从2.5开始打不会很难受，没力气低血压什么的是因为没吃东西 在打针期间吃蛋白质掉秤很快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2068542259042386028",
+        "created_at": "2026-06-21T03:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068542259042386028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068542259042386028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1233,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一米五七九斤打减肥针会咋样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "https://t.co/TmlcYNAd4j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nini96993",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nini96993",
+                "start": 0,
+                "url": "https://t.co/TmlcYNAd4j"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88纯绿",
+        "name": "nini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929674445811712/AaZ5P8FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12356,
+          "following_count": 265,
+          "like_count": 3432,
+          "listed_count": 24,
+          "media_count": 590,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

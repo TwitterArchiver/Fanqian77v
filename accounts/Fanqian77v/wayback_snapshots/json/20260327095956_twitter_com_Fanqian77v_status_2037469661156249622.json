@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037469592508145664"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2037469661156249622",
+    "created_at": "2026-03-27T09:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037469661156249622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "地雷系女子"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJaQUShR5r",
+          "end": 35,
+          "expanded_url": "https://x.com/Fanqian77v/status/2037469661156249622/video/1",
+          "media_key": "13_2037469592508145664",
+          "start": 12,
+          "url": "https://t.co/gJaQUShR5r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037469661156249622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太好玩了\n#地雷系女子 https://t.co/gJaQUShR5r"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13200,
+        "height": 1186,
+        "media_key": "13_2037469592508145664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037469592508145664/img/qKnLfC2PBbXB5NSX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037469592508145664/vid/avc1/320x526/p1UGSs-udJjpH4V-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037469592508145664/vid/avc1/480x790/nHRh7rsEWhD0mZo0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037469592508145664/vid/avc1/720x1186/2mzZrijOf3yqhI4K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037469592508145664/pl/mhk-37oxvWFHudE6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037469592508145664"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2037469661156249622",
+        "created_at": "2026-03-27T09:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037469661156249622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJaQUShR5r",
+              "end": 35,
+              "expanded_url": "https://x.com/Fanqian77v/status/2037469661156249622/video/1",
+              "media_key": "13_2037469592508145664",
+              "start": 12,
+              "url": "https://t.co/gJaQUShR5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037469661156249622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太好玩了\n#地雷系女子 https://t.co/gJaQUShR5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q\n喜欢我就给我打钱吧！",
+        "id": "1773143737423847424",
+        "location": "188 无福利只是好友位➕朋友圈日常",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 60,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 98
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

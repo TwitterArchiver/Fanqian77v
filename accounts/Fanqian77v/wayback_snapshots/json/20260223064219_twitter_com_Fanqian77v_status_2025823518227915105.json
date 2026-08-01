@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025823482714685440",
+        "3_2025823482727309312"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2025823518227915105",
+    "created_at": "2026-02-23T06:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025823518227915105"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "女同性恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1780886139131621376",
+          "start": 12,
+          "username": "NyA_0081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmGcJEWu07",
+          "end": 52,
+          "expanded_url": "https://x.com/Fanqian77v/status/2025823518227915105/photo/1",
+          "media_key": "3_2025823482714685440",
+          "start": 29,
+          "url": "https://t.co/hmGcJEWu07"
+        },
+        {
+          "display_url": "pic.x.com/hmGcJEWu07",
+          "end": 52,
+          "expanded_url": "https://x.com/Fanqian77v/status/2025823518227915105/photo/1",
+          "media_key": "3_2025823482727309312",
+          "start": 29,
+          "url": "https://t.co/hmGcJEWu07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025823518227915105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啦啦啦啦啦跟桃儿拍婚纱照@NyA_0081 \n#女同性恋 https://t.co/hmGcJEWu07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025823482714685440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0ruWjagAAnR7D.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025823482727309312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0ruWmbIAAL_iJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025823482714685440",
+            "3_2025823482727309312"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2025823518227915105",
+        "created_at": "2026-02-23T06:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025823518227915105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "女同性恋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1780886139131621376",
+              "start": 12,
+              "username": "NyA_0081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hmGcJEWu07",
+              "end": 52,
+              "expanded_url": "https://x.com/Fanqian77v/status/2025823518227915105/photo/1",
+              "media_key": "3_2025823482714685440",
+              "start": 29,
+              "url": "https://t.co/hmGcJEWu07"
+            },
+            {
+              "display_url": "pic.x.com/hmGcJEWu07",
+              "end": 52,
+              "expanded_url": "https://x.com/Fanqian77v/status/2025823518227915105/photo/1",
+              "media_key": "3_2025823482727309312",
+              "start": 29,
+              "url": "https://t.co/hmGcJEWu07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025823518227915105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦啦啦跟桃儿拍婚纱照@NyA_0081 \n#女同性恋 https://t.co/hmGcJEWu07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 20
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T09:09:39.000Z",
+        "description": "门槛188   只有日常只是给你一个认识我的机会而已",
+        "id": "1780886139131621376",
+        "name": "探花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023157713153433600/NQ8kDrH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 52,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 52
+        },
+        "username": "NyA_0081",
+        "verified": false
+      }
+    ]
+  }
+}

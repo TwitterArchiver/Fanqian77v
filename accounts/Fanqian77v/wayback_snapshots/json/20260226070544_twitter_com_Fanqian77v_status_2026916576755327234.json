@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026916562867990528"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2026916576755327234",
+    "created_at": "2026-02-26T07:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026916576755327234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "量産型"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "雰囲気"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bwLzNJiG0Z",
+          "end": 44,
+          "expanded_url": "https://x.com/Fanqian77v/status/2026916576755327234/photo/1",
+          "media_key": "3_2026916562867990528",
+          "start": 21,
+          "url": "https://t.co/bwLzNJiG0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026916576755327234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "婚纱\n\n#自撮り界隈\n#量産型\n#雰囲気 https://t.co/bwLzNJiG0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2026916562867990528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEN3_caMAAW28L.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026916562867990528"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2026916576755327234",
+        "created_at": "2026-02-26T07:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026916576755327234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "量産型"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwLzNJiG0Z",
+              "end": 44,
+              "expanded_url": "https://x.com/Fanqian77v/status/2026916576755327234/photo/1",
+              "media_key": "3_2026916562867990528",
+              "start": 21,
+              "url": "https://t.co/bwLzNJiG0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026916576755327234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "婚纱\n\n#自撮り界隈\n#量産型\n#雰囲気 https://t.co/bwLzNJiG0Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 51,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 42
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

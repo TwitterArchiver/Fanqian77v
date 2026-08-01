@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081738772891480342",
+    "created_at": "2026-07-27T14:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081745870069059904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077346715313811457",
+          "start": 0,
+          "username": "Huishui666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081745870069059904",
+    "in_reply_to_user_id": "2077346715313811457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081741279374008413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huishui666 应该会的，我之前吃pr配sns就断片了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081738772891480342",
+        "created_at": "2026-07-27T14:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081745870069059904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077346715313811457",
+              "start": 0,
+              "username": "Huishui666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081745870069059904",
+        "in_reply_to_user_id": "2077346715313811457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081741279374008413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huishui666 应该会的，我之前吃pr配sns就断片了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077346715313811457",
+        "conversation_id": "2081738772891480342",
+        "created_at": "2026-07-27T13:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081741279374008413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081741279374008413",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081738772891480342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 配sns真的不会断片嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 74,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T10:57:49.000Z",
+        "description": "药物的奴隶",
+        "id": "2077346715313811457",
+        "location": "沈",
+        "name": "Huishui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077347394929516544/Co1yaLwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Huishui666",
+        "verified": false
+      }
+    ]
+  }
+}

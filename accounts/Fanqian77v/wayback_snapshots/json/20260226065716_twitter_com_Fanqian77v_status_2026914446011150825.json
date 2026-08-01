@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Fukuoka",
+          "id": "1009168505252352000",
+          "name": "Fukuoka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sapporo",
+          "id": "1009884650444021760",
+          "name": "Sapporo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2026914446011150825",
+    "created_at": "2026-02-26T06:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026914446011150825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_reflem/status…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/_reflem/status/2026861334118412698",
+          "start": 16,
+          "url": "https://t.co/noIQnFuiPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026914446011150825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026861334118412698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要买这个 代购们们快上链接吧 https://t.co/noIQnFuiPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026861326027706368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDboyLb0AAQJZF.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026861326040182785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDboyOaMAEsORJ.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026861326090575872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDboyabIAAlFXJ.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026861326031790080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDboyMaIAAXQkK.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2026914446011150825",
+        "created_at": "2026-02-26T06:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026914446011150825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_reflem/status…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_reflem/status/2026861334118412698",
+              "start": 16,
+              "url": "https://t.co/noIQnFuiPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026914446011150825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026861334118412698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要买这个 代购们们快上链接吧 https://t.co/noIQnFuiPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026861326027706368",
+            "3_2026861326040182785",
+            "3_2026861326090575872",
+            "3_2026861326031790080"
+          ]
+        },
+        "author_id": "995700590289174529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2026861334118412698",
+        "created_at": "2026-02-26T03:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026861334118412698"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "札幌",
+              "probability": 0.9721,
+              "start": 69,
+              "type": "Place"
+            },
+            {
+              "end": 73,
+              "normalized_text": "福岡",
+              "probability": 0.9899,
+              "start": 72,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 93,
+              "tag": "reflem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5K7PTtouia",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2026861334118412698/photo/1",
+              "media_key": "3_2026861326027706368",
+              "start": 101,
+              "url": "https://t.co/5K7PTtouia"
+            },
+            {
+              "display_url": "pic.x.com/5K7PTtouia",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2026861334118412698/photo/1",
+              "media_key": "3_2026861326040182785",
+              "start": 101,
+              "url": "https://t.co/5K7PTtouia"
+            },
+            {
+              "display_url": "pic.x.com/5K7PTtouia",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2026861334118412698/photo/1",
+              "media_key": "3_2026861326090575872",
+              "start": 101,
+              "url": "https://t.co/5K7PTtouia"
+            },
+            {
+              "display_url": "pic.x.com/5K7PTtouia",
+              "end": 124,
+              "expanded_url": "https://x.com/_REFLEM/status/2026861334118412698/photo/1",
+              "media_key": "3_2026861326031790080",
+              "start": 101,
+              "url": "https://t.co/5K7PTtouia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026861334118412698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 18664,
+          "like_count": 352,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "👁‍🗨REFLEM(レフレム)\nNEW ARRIVAL\n\nデニムハイネックZIPパーカー\n¥28,380\n\n2月27日（金）発売。\n※札幌、福岡は配送遅延の為遅れる場合が御座います。\n\n#reflem https://t.co/5K7PTtouia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "门槛188",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 51,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-13T16:21:34.000Z",
+        "description": "-More than dark- MADな世界観やオーバースペックディテール どこまでもリアルなデザインから叙情的なメッセージを発信し続ける ノージェンダーウェアブランド。",
+        "id": "995700590289174529",
+        "name": "REFLEM",
+        "pinned_tweet_id": "1932670280620781768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1009990947533348864/Smwp1Cia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32210,
+          "following_count": 1,
+          "like_count": 5993,
+          "listed_count": 302,
+          "media_count": 2860,
+          "tweet_count": 4034
+        },
+        "username": "_REFLEM",
+        "verified": false
+      }
+    ]
+  }
+}

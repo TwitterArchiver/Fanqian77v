@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2072365761474228390",
+    "created_at": "2026-07-01T17:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072365761474228390"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072365761474228390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蛋白棒对jc妹太友好了，甜甜的像在吃甜品，而且一根可以顶很久…好吃呀好吃呀想把世界上的蛋白棒尝个遍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2072365761474228390",
+        "created_at": "2026-07-01T17:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072365761474228390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072365761474228390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛋白棒对jc妹太友好了，甜甜的像在吃甜品，而且一根可以顶很久…好吃呀好吃呀想把世界上的蛋白棒尝个遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n只o不g 互关dd",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 65,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

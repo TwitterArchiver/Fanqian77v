@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2080718346274898388",
+    "created_at": "2026-07-25T02:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T03:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080840393445589502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2078390906374455297",
+          "start": 0,
+          "username": "chuyuTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080840393445589502",
+    "in_reply_to_user_id": "2078390906374455297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080718346274898388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuyuTvT 这人像破防了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2080718312007413761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAyR9jaMAEXCuI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2080718320068866048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAySblaMAA_sdx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2080718329539690496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAyS-3bgAAV7P2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2080718339161391104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOAyTitbAAAv44m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2080718346274898388",
+        "created_at": "2026-07-25T02:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080840393445589502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2078390906374455297",
+              "start": 0,
+              "username": "chuyuTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080840393445589502",
+        "in_reply_to_user_id": "2078390906374455297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080718346274898388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuyuTvT 这人像破防了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080718312007413761",
+            "3_2080718320068866048",
+            "3_2080718329539690496",
+            "3_2080718339161391104"
+          ]
+        },
+        "author_id": "2078390906374455297",
+        "conversation_id": "2080718346274898388",
+        "created_at": "2026-07-24T18:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080718346274898388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/skE7XS0nlA",
+              "end": 37,
+              "expanded_url": "https://x.com/chuyuTvT/status/2080718346274898388/photo/1",
+              "media_key": "3_2080718312007413761",
+              "start": 14,
+              "url": "https://t.co/skE7XS0nlA"
+            },
+            {
+              "display_url": "pic.x.com/skE7XS0nlA",
+              "end": 37,
+              "expanded_url": "https://x.com/chuyuTvT/status/2080718346274898388/photo/1",
+              "media_key": "3_2080718320068866048",
+              "start": 14,
+              "url": "https://t.co/skE7XS0nlA"
+            },
+            {
+              "display_url": "pic.x.com/skE7XS0nlA",
+              "end": 37,
+              "expanded_url": "https://x.com/chuyuTvT/status/2080718346274898388/photo/1",
+              "media_key": "3_2080718329539690496",
+              "start": 14,
+              "url": "https://t.co/skE7XS0nlA"
+            },
+            {
+              "display_url": "pic.x.com/skE7XS0nlA",
+              "end": 37,
+              "expanded_url": "https://x.com/chuyuTvT/status/2080718346274898388/photo/1",
+              "media_key": "3_2080718339161391104",
+              "start": 14,
+              "url": "https://t.co/skE7XS0nlA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080718346274898388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊笑死我了真的很好笑。 https://t.co/skE7XS0nlA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 83,
+          "like_count": 677,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-18T08:08:07.000Z",
+        "description": "乐乐。",
+        "id": "2078390906374455297",
+        "name": "ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078391577161183232/AwrtV6vH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 21,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "chuyuTvT",
+        "verified": false
+      }
+    ]
+  }
+}

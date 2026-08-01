@@ -1,0 +1,650 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056701530645069824"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Fukuoka",
+          "id": "1009168505252352000",
+          "name": "Fukuoka"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sapporo",
+          "id": "1009884650444021760",
+          "name": "Sapporo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Accessories",
+          "id": "846447164880433152",
+          "name": "Fashion accessories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845285930994872322",
+          "name": "Handbags"
+        }
+      }
+    ],
+    "conversation_id": "2056701541214835014",
+    "created_at": "2026-05-19T11:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056701541214835014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y4Ll68ppn9",
+          "end": 43,
+          "expanded_url": "https://x.com/Fanqian77v/status/2056701541214835014/photo/1",
+          "media_key": "3_2056701530645069824",
+          "start": 20,
+          "url": "https://t.co/Y4Ll68ppn9"
+        },
+        {
+          "display_url": "x.com/_reflem/status…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/_reflem/status/2056329093759836570",
+          "start": 44,
+          "url": "https://t.co/aQ79Gn8eZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056701541214835014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056329093759836570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭😭😭reflem我求你再贩这款斜挎包 https://t.co/Y4Ll68ppn9 https://t.co/aQ79Gn8eZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1287,
+        "media_key": "3_2056701530645069824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrfJS8aAAAFgK-.jpg",
+        "width": 1178
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056329087824826368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImMaRUaEAA1-9V.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056329087787192320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImMaRLb0AA_lcl.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056329087795486720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImMaRNaYAAZdbV.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056329087782924288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImMaRKasAAuRy1.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056701530645069824"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "2056701541214835014",
+        "created_at": "2026-05-19T11:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056701541214835014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y4Ll68ppn9",
+              "end": 43,
+              "expanded_url": "https://x.com/Fanqian77v/status/2056701541214835014/photo/1",
+              "media_key": "3_2056701530645069824",
+              "start": 20,
+              "url": "https://t.co/Y4Ll68ppn9"
+            },
+            {
+              "display_url": "x.com/_reflem/status…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/_reflem/status/2056329093759836570",
+              "start": 44,
+              "url": "https://t.co/aQ79Gn8eZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056701541214835014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056329093759836570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭😭😭reflem我求你再贩这款斜挎包 https://t.co/Y4Ll68ppn9 https://t.co/aQ79Gn8eZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056329087824826368",
+            "3_2056329087787192320",
+            "3_2056329087795486720",
+            "3_2056329087782924288"
+          ]
+        },
+        "author_id": "995700590289174529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Fukuoka",
+              "id": "1009168505252352000",
+              "name": "Fukuoka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Accessories",
+              "id": "846447164880433152",
+              "name": "Fashion accessories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845285930994872322",
+              "name": "Handbags"
+            }
+          }
+        ],
+        "conversation_id": "2056329093759836570",
+        "created_at": "2026-05-18T11:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056329093759836570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "reflem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqZk83NUw5",
+              "end": 116,
+              "expanded_url": "https://x.com/_REFLEM/status/2056329093759836570/photo/1",
+              "media_key": "3_2056329087824826368",
+              "start": 93,
+              "url": "https://t.co/rqZk83NUw5"
+            },
+            {
+              "display_url": "pic.x.com/rqZk83NUw5",
+              "end": 116,
+              "expanded_url": "https://x.com/_REFLEM/status/2056329093759836570/photo/1",
+              "media_key": "3_2056329087787192320",
+              "start": 93,
+              "url": "https://t.co/rqZk83NUw5"
+            },
+            {
+              "display_url": "pic.x.com/rqZk83NUw5",
+              "end": 116,
+              "expanded_url": "https://x.com/_REFLEM/status/2056329093759836570/photo/1",
+              "media_key": "3_2056329087795486720",
+              "start": 93,
+              "url": "https://t.co/rqZk83NUw5"
+            },
+            {
+              "display_url": "pic.x.com/rqZk83NUw5",
+              "end": 116,
+              "expanded_url": "https://x.com/_REFLEM/status/2056329093759836570/photo/1",
+              "media_key": "3_2056329087782924288",
+              "start": 93,
+              "url": "https://t.co/rqZk83NUw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056329093759836570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15693,
+          "like_count": 235,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "👁‍🗨REFLEM(レフレム)\n再入荷\n\n2WAYデニムショルダーバッグ\n¥17,380\n\n5月21日（木）発売。\n※札幌、福岡は配送遅延の為遅れる場合が御座います。\n\n#reflem https://t.co/rqZk83NUw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 149
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-13T16:21:34.000Z",
+        "description": "-More than dark- MADな世界観やオーバースペックディテール どこまでもリアルなデザインから叙情的なメッセージを発信し続ける ノージェンダーウェアブランド。",
+        "id": "995700590289174529",
+        "name": "REFLEM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1009990947533348864/Smwp1Cia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34095,
+          "following_count": 1,
+          "like_count": 6238,
+          "listed_count": 315,
+          "media_count": 2972,
+          "tweet_count": 4160
+        },
+        "username": "_REFLEM",
+        "verified": false
+      }
+    ]
+  }
+}

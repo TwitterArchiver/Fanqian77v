@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2039636253948436989",
+    "created_at": "2026-04-02T09:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039636253948436989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mercuro_info/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mercuro_info/status/1740354084086116461",
+          "start": 8,
+          "url": "https://t.co/7UFr7N3Cap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039636253948436989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1740354084086116461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想要这件返场 https://t.co/7UFr7N3Cap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1740354075110297600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCb6z35aUAAd6pD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1740354075101925376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCb6z33akAAK2pq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1740354075122921472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCb6z38a8AApEZO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1740354075101921280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GCb6z33agAAD3xD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2039636253948436989",
+        "created_at": "2026-04-02T09:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039636253948436989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercuro_info/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mercuro_info/status/1740354084086116461",
+              "start": 8,
+              "url": "https://t.co/7UFr7N3Cap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039636253948436989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1740354084086116461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想要这件返场 https://t.co/7UFr7N3Cap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1740354075110297600",
+            "3_1740354075101925376",
+            "3_1740354075122921472",
+            "3_1740354075101921280"
+          ]
+        },
+        "author_id": "1525625843937972224",
+        "conversation_id": "1740354084086116461",
+        "created_at": "2023-12-28T12:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-28T13:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1740354084086116461"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 121,
+              "tag": "マーキュロ"
+            },
+            {
+              "end": 134,
+              "start": 128,
+              "tag": "GALFY"
+            },
+            {
+              "end": 144,
+              "start": 135,
+              "tag": "ReRIPLIE"
+            },
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "KRY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXKtqm7ztQ",
+              "end": 174,
+              "expanded_url": "https://x.com/mercuro_info/status/1740354084086116461/photo/1",
+              "media_key": "3_1740354075110297600",
+              "start": 151,
+              "url": "https://t.co/FXKtqm7ztQ"
+            },
+            {
+              "display_url": "pic.x.com/FXKtqm7ztQ",
+              "end": 174,
+              "expanded_url": "https://x.com/mercuro_info/status/1740354084086116461/photo/1",
+              "media_key": "3_1740354075101925376",
+              "start": 151,
+              "url": "https://t.co/FXKtqm7ztQ"
+            },
+            {
+              "display_url": "pic.x.com/FXKtqm7ztQ",
+              "end": 174,
+              "expanded_url": "https://x.com/mercuro_info/status/1740354084086116461/photo/1",
+              "media_key": "3_1740354075122921472",
+              "start": 151,
+              "url": "https://t.co/FXKtqm7ztQ"
+            },
+            {
+              "display_url": "pic.x.com/FXKtqm7ztQ",
+              "end": 174,
+              "expanded_url": "https://x.com/mercuro_info/status/1740354084086116461/photo/1",
+              "media_key": "3_1740354075101921280",
+              "start": 151,
+              "url": "https://t.co/FXKtqm7ztQ"
+            },
+            {
+              "display_url": "x.com/mercuro_info/s…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/mercuro_info/status/1737790258916605978",
+              "start": 175,
+              "url": "https://t.co/OCEuFzv5h8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1740354084086116461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 33022,
+          "like_count": 256,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1737790258916605978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【GALFY×マーキュロ×Re:RIPLIE\nトリプルネームセットアップ「Re:キュロ02」販売時間について】\n\n✔開場中⏰13:35ｰ13:55\n✔⏰終演後\n※各時間数量限定\n\n価格：¥16,000+tax\n\n上記時間にて販売致します。\n\n#マーキュロ\n#GALFY\n#ReRIPLIE \n#KRY https://t.co/FXKtqm7ztQ https://t.co/OCEuFzv5h8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "小Q\n喜欢我就给我打钱吧！",
+        "id": "1773143737423847424",
+        "location": "188 无福利只是好友位➕朋友圈日常",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 60,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 105
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T23:55:40.000Z",
+        "description": "【HP】 https://t.co/WbOOhGPogG 【スケジュール】https://t.co/vvoBAXK3Ye【ファンクラブ】https://t.co/U56kt0ctDZ 【お仕事ご依頼は】→mercuro.official@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mercuro.me",
+                "end": 28,
+                "expanded_url": "https://mercuro.me",
+                "start": 5,
+                "url": "https://t.co/WbOOhGPogG"
+              },
+              {
+                "display_url": "timetr.ee/pc/mercuro_info",
+                "end": 60,
+                "expanded_url": "https://timetr.ee/pc/mercuro_info",
+                "start": 37,
+                "url": "https://t.co/vvoBAXK3Ye"
+              },
+              {
+                "display_url": "mercuro-secret.com",
+                "end": 91,
+                "expanded_url": "http://mercuro-secret.com",
+                "start": 68,
+                "url": "https://t.co/U56kt0ctDZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkfly.to/50707tWPtG0",
+                "end": 23,
+                "expanded_url": "https://linkfly.to/50707tWPtG0",
+                "start": 0,
+                "url": "https://t.co/gKJufJjm8x"
+              }
+            ]
+          }
+        },
+        "id": "1525625843937972224",
+        "location": "サークルライチ",
+        "name": "🎌マーキュロ🎌",
+        "pinned_tweet_id": "2031686880685609367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535200688690823168/tpzO5OFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25663,
+          "following_count": 7,
+          "like_count": 718,
+          "listed_count": 182,
+          "media_count": 3718,
+          "tweet_count": 6104
+        },
+        "url": "https://t.co/gKJufJjm8x",
+        "username": "mercuro_info",
+        "verified": true
+      }
+    ]
+  }
+}

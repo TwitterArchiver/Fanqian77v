@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2083050446680379829",
+    "created_at": "2026-07-31T08:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083103810428568038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1986637778134999040",
+          "start": 0,
+          "username": "gou9229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083103810428568038",
+    "in_reply_to_user_id": "1986637778134999040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083050446680379829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gou9229 不是汗脚的话感觉不会变臭，或者可以自己尝试开透气孔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2083050446680379829",
+        "created_at": "2026-07-31T08:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083103810428568038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1986637778134999040",
+              "start": 0,
+              "username": "gou9229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083103810428568038",
+        "in_reply_to_user_id": "1986637778134999040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083050446680379829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gou9229 不是汗脚的话感觉不会变臭，或者可以自己尝试开透气孔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986637778134999040",
+        "conversation_id": "2083050446680379829",
+        "created_at": "2026-07-31T04:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083050446680379829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083050446680379829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1501,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直穿这个唐企鹅拖鞋会不会真的变成臭脚…呃…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 92,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T03:32:35.000Z",
+        "description": "黑白灰世界",
+        "id": "1986637778134999040",
+        "location": "坟地",
+        "name": "月光照尸骸",
+        "pinned_tweet_id": "2064910464514228228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062850573230321664/LL6mLXSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 28,
+          "like_count": 2854,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2808
+        },
+        "url": "",
+        "username": "gou9229",
+        "verified": false
+      }
+    ]
+  }
+}

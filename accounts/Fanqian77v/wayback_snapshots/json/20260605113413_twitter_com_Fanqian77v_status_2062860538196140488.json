@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2062860538196140488",
+    "created_at": "2026-06-05T11:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062860538196140488"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062860538196140488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "3tpr 1tsns，我他吗再也不敢高剂量联用这俩了上次药效里被镜子划到脂肪层了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2062860538196140488",
+        "created_at": "2026-06-05T11:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062860538196140488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062860538196140488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3tpr 1tsns，我他吗再也不敢高剂量联用这俩了上次药效里被镜子划到脂肪层了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧！\n门槛188｜你会获得一堆无聊的日常\n只o不g od妹快来一起玩啊，看到的我都会回关",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 57,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 177
+        },
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

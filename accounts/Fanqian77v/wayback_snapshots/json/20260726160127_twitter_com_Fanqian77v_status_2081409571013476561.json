@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2081390695567573074",
+    "created_at": "2026-07-26T16:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081409571013476561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044567923130298369",
+          "start": 0,
+          "username": "MintOwOill"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081409571013476561",
+    "in_reply_to_user_id": "2044567923130298369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081408910544777492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MintOwOill 这穷逼雕里掏不出来俩子儿还装上暖男破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2081390695567573074",
+        "created_at": "2026-07-26T16:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081409571013476561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044567923130298369",
+              "start": 0,
+              "username": "MintOwOill"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081409571013476561",
+        "in_reply_to_user_id": "2044567923130298369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081408910544777492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MintOwOill 这穷逼雕里掏不出来俩子儿还装上暖男破防了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044567923130298369",
+        "conversation_id": "2081390695567573074",
+        "created_at": "2026-07-26T15:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081408910544777492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081408910544777492",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081404090031239364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 他还发0.01骂我呢 穷死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2062913082331107471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 71,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T00:06:44.000Z",
+        "description": "备用号 乱发负能 \n🚪52/88/188 \n大号营业指路@Mint0v033\n谢谢(^ ^)你们的观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "Mint0v033"
+              }
+            ]
+          }
+        },
+        "id": "2044567923130298369",
+        "location": "不约不线下不视频",
+        "name": "薄荷",
+        "pinned_tweet_id": "2065729559010435387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059072339082403840/WUTugqZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 12,
+          "like_count": 300,
+          "listed_count": 9,
+          "media_count": 119,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "MintOwOill",
+        "verified": false
+      }
+    ]
+  }
+}
