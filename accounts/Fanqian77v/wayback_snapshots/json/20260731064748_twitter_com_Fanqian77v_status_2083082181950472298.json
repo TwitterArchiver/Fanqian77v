@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083082166771261440",
+        "3_2083082166767144960"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083082181950472298",
+    "created_at": "2026-07-31T06:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083082181950472298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SVImAvJpHL",
+          "end": 49,
+          "expanded_url": "https://x.com/Fanqian77v/status/2083082181950472298/photo/1",
+          "media_key": "3_2083082166771261440",
+          "start": 26,
+          "url": "https://t.co/SVImAvJpHL"
+        },
+        {
+          "display_url": "pic.x.com/SVImAvJpHL",
+          "end": 49,
+          "expanded_url": "https://x.com/Fanqian77v/status/2083082181950472298/photo/1",
+          "media_key": "3_2083082166767144960",
+          "start": 26,
+          "url": "https://t.co/SVImAvJpHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083082181950472298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "桃儿给我买了一个一斤装的迪拜软曲奇，吃的我爽歪歪🤤 https://t.co/SVImAvJpHL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2083082166771261440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiYMaxaIAAdzgI.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2083082166767144960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiYMawbUAAzztC.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083082166771261440",
+            "3_2083082166767144960"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083082181950472298",
+        "created_at": "2026-07-31T06:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083082181950472298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVImAvJpHL",
+              "end": 49,
+              "expanded_url": "https://x.com/Fanqian77v/status/2083082181950472298/photo/1",
+              "media_key": "3_2083082166771261440",
+              "start": 26,
+              "url": "https://t.co/SVImAvJpHL"
+            },
+            {
+              "display_url": "pic.x.com/SVImAvJpHL",
+              "end": 49,
+              "expanded_url": "https://x.com/Fanqian77v/status/2083082181950472298/photo/1",
+              "media_key": "3_2083082166767144960",
+              "start": 26,
+              "url": "https://t.co/SVImAvJpHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083082181950472298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "桃儿给我买了一个一斤装的迪拜软曲奇，吃的我爽歪歪🤤 https://t.co/SVImAvJpHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 92,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false
+      }
+    ]
+  }
+}

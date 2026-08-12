@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2083805690905378951",
+    "created_at": "2026-08-02T14:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083924345735541182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990166110067662848",
+          "start": 0,
+          "username": "engine613089311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083924345735541182",
+    "in_reply_to_user_id": "1990166110067662848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083805690905378951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@engine613089311 哇没吃过这个是奶味的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083805668310732800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsqNwCbUAApwUR.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2083805690905378951",
+        "created_at": "2026-08-02T14:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083924345735541182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990166110067662848",
+              "start": 0,
+              "username": "engine613089311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083924345735541182",
+        "in_reply_to_user_id": "1990166110067662848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083805690905378951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@engine613089311 哇没吃过这个是奶味的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083805668310732800"
+          ]
+        },
+        "author_id": "1990166110067662848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083805690905378951",
+        "created_at": "2026-08-02T06:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083805690905378951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpKxTgLvIR",
+              "end": 27,
+              "expanded_url": "https://x.com/engine613089311/status/2083805690905378951/photo/1",
+              "media_key": "3_2083805668310732800",
+              "start": 4,
+              "url": "https://t.co/bpKxTgLvIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083805690905378951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃的 https://t.co/bpKxTgLvIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 121,
+          "like_count": 1208,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T21:12:42.000Z",
+        "description": "07摩羯intj，switch（应该？）门槛2778/1145.14\nhttps://t.co/gdE2DLPs6f\n匿名问题，勋美康粉\n男，不见证不打拳，专心经营自己的唐氏生活中...这里算是我的牢骚日记本，偶尔更新点鬼脑发动的黄色废料，浩all党\n最近暂时不发帖\n我的小号@wazgsj8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "wazgsj8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/engine48856",
+                "end": 58,
+                "expanded_url": "https://ngl.link/engine48856",
+                "start": 35,
+                "url": "https://t.co/gdE2DLPs6f"
+              }
+            ]
+          }
+        },
+        "id": "1990166110067662848",
+        "location": "你心里",
+        "name": "engine（已解放）",
+        "pinned_tweet_id": "2048669196079472871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 397,
+          "like_count": 26486,
+          "listed_count": 0,
+          "media_count": 537,
+          "tweet_count": 5207
+        },
+        "url": "",
+        "username": "engine613089311",
+        "verified": false
+      }
+    ]
+  }
+}

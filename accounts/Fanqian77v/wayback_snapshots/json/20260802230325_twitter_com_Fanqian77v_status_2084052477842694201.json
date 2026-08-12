@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2084046377655681473",
+    "created_at": "2026-08-02T23:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T00:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084052477842694201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045921763553312768",
+          "start": 0,
+          "username": "_weiwudage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084052477842694201",
+    "in_reply_to_user_id": "2045921763553312768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084046377655681473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_weiwudage 这个好吃😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084046365358006272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOwFIKaboAAjWN7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2084046377655681473",
+        "created_at": "2026-08-02T23:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T00:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084052477842694201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045921763553312768",
+              "start": 0,
+              "username": "_weiwudage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084052477842694201",
+        "in_reply_to_user_id": "2045921763553312768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084046377655681473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_weiwudage 这个好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084046365358006272"
+          ]
+        },
+        "author_id": "2045921763553312768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084046377655681473",
+        "created_at": "2026-08-02T22:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084046377655681473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOLCkjR1Wn",
+              "end": 34,
+              "expanded_url": "https://x.com/_weiwudage/status/2084046377655681473/photo/1",
+              "media_key": "3_2084046365358006272",
+              "start": 11,
+              "url": "https://t.co/ZOLCkjR1Wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084046377655681473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发烧就是要吃雪糕呀🤤 https://t.co/ZOLCkjR1Wn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 121,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 602
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T17:45:48.000Z",
+        "description": "你别骂我我玻璃心   \n09丨贫穷/餐劵/o割丨取向KAWAII\n同成分请和我互fo（爱。路评）\n匿名箱https://t.co/S9thlsTIJh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wwdg",
+                "end": 75,
+                "expanded_url": "https://ngl.link/wwdg",
+                "start": 52,
+                "url": "https://t.co/S9thlsTIJh"
+              }
+            ]
+          }
+        },
+        "id": "2045921763553312768",
+        "name": "苦愛",
+        "pinned_tweet_id": "2083351160136818777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078407875937140736/kfwrb55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 48,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "_weiwudage",
+        "verified": false
+      }
+    ]
+  }
+}
