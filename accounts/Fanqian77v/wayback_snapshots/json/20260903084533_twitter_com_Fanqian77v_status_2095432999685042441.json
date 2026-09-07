@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095427855467565056"
+      ],
+      "media_source_tweet_id": [
+        "2095427933682958793"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2095432999685042441",
+    "created_at": "2026-09-03T08:45:33.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095432999685042441"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "求入门"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "陪聊"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 87,
+          "start": 83,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "图包"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "陪玩"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "中性"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "短发女"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2091176768342507520",
+          "start": 3,
+          "username": "lznnnnn785497"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vd2JZJCBUm",
+          "end": 128,
+          "expanded_url": "https://x.com/lznnnnn785497/status/2095427933682958793/photo/1",
+          "media_key": "3_2095427855467565056",
+          "start": 105,
+          "url": "https://t.co/vd2JZJCBUm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095432999685042441",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095427855467565056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095427933682958793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lznnnnn785497: 🚪88/288/520 我气哭了啊能不能来个门槛费 交完学费穷到吃土😱😱😱😱🙄🙄🙄 想死 #门槛哥 #求入门 #陪聊 #爸爸活 #妈妈活 #图包 #陪玩 #中性 #短发女 https://t.co/vd2JZJCBUm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095427855467565056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRR0iFGaUAAAb35.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095427855467565056"
+          ],
+          "media_source_tweet_id": [
+            "2095427933682958793"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2095432999685042441",
+        "created_at": "2026-09-03T08:45:33.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095432999685042441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "求入门"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "陪聊"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 87,
+              "start": 83,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 91,
+              "start": 88,
+              "tag": "图包"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "陪玩"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "中性"
+            },
+            {
+              "end": 104,
+              "start": 100,
+              "tag": "短发女"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2091176768342507520",
+              "start": 3,
+              "username": "lznnnnn785497"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vd2JZJCBUm",
+              "end": 128,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2095427933682958793/photo/1",
+              "media_key": "3_2095427855467565056",
+              "start": 105,
+              "url": "https://t.co/vd2JZJCBUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095432999685042441",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095427855467565056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095427933682958793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lznnnnn785497: 🚪88/288/520 我气哭了啊能不能来个门槛费 交完学费穷到吃土😱😱😱😱🙄🙄🙄 想死 #门槛哥 #求入门 #陪聊 #爸爸活 #妈妈活 #图包 #陪玩 #中性 #短发女 https://t.co/vd2JZJCBUm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095427855467565056"
+          ]
+        },
+        "author_id": "2091176768342507520",
+        "conversation_id": "2095427933682958793",
+        "created_at": "2026-09-03T08:25:25.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095427933682958793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "求入门"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "陪聊"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "图包"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "陪玩"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "中性"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "短发女"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vd2JZJCBUm",
+              "end": 109,
+              "expanded_url": "https://x.com/lznnnnn785497/status/2095427933682958793/photo/1",
+              "media_key": "3_2095427855467565056",
+              "start": 86,
+              "url": "https://t.co/vd2JZJCBUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095427933682958793",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095427855467565056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🚪88/288/520 我气哭了啊能不能来个门槛费 交完学费穷到吃土😱😱😱😱🙄🙄🙄 想死 #门槛哥 #求入门 #陪聊 #爸爸活 #妈妈活 #图包 #陪玩 #中性 #短发女 https://t.co/vd2JZJCBUm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095432999685042441",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 113,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-22T14:54:37.000Z",
+        "description": "🚪88/288/520（有图包） 可以验证 @为了防止封号不会发图包里的照片 问坐标20 女生来找我互转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lznnnnn245019?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lznnnnn245019?igsi=MXcyYzg3bGtidzk4bw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/tqoD8gqznO"
+              }
+            ]
+          }
+        },
+        "id": "2091176768342507520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095427933682958793",
+        "name": "BA",
+        "pinned_tweet_id": "2095427933682958793",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091176768342507520/1787666550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091177419419856896/bQyTmNlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 34,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/tqoD8gqznO",
+        "username": "lznnnnn785497",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

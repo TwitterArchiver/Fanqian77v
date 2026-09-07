@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2096256211259892143",
+    "created_at": "2026-09-06T04:26:31.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096454975400648766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "979782291617734658",
+          "start": 0,
+          "username": "driggers_steve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096454975400648766",
+    "in_reply_to_user_id": "979782291617734658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096418943879749722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@driggers_steve 🙀🙀严肃维持中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2096256211259892143",
+        "created_at": "2026-09-06T04:26:31.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096454975400648766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "979782291617734658",
+              "start": 0,
+              "username": "driggers_steve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096454975400648766",
+        "in_reply_to_user_id": "979782291617734658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096418943879749722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@driggers_steve 🙀🙀严肃维持中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "979782291617734658",
+        "conversation_id": "2096256211259892143",
+        "created_at": "2026-09-06T02:03:20.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096418943879749722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096418943879749722",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096256211259892143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 加油，肯定有效果"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096454975400648766",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 116,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-30T18:07:56.000Z",
+        "description": "心理咨询师，暗黑小诊所从业人员，哄人专家，mbti顶级爱好者，嘴巴巨严，互fo💯，小目标100fo   匿名箱https://t.co/IRZR0akTsk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/driggers_steve",
+                "end": 78,
+                "expanded_url": "https://ngl.link/driggers_steve",
+                "start": 55,
+                "url": "https://t.co/IRZR0akTsk"
+              }
+            ]
+          }
+        },
+        "id": "979782291617734658",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096442257616634028",
+        "name": "Steve Driggers",
+        "pinned_tweet_id": "2095056285679099909",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094983605722464256/ZuDIcko0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 107,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 623
+        },
+        "url": "",
+        "username": "driggers_steve",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

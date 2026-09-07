@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095064746823454720",
+        "3_2095064746827685888",
+        "3_2095064746823483392",
+        "3_2095064746890502144"
+      ],
+      "media_source_tweet_id": [
+        "2095064782978363736",
+        "2095064782978363736",
+        "2095064782978363736",
+        "2095064782978363736"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095065108351524922",
+    "created_at": "2026-09-02T08:23:40.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T09:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095065108351524922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048050339824455681",
+          "start": 3,
+          "username": "hateubutloveu77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcHmmk4Lqq",
+          "end": 91,
+          "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+          "media_key": "3_2095064746823454720",
+          "start": 68,
+          "url": "https://t.co/vcHmmk4Lqq"
+        },
+        {
+          "display_url": "pic.x.com/vcHmmk4Lqq",
+          "end": 91,
+          "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+          "media_key": "3_2095064746827685888",
+          "start": 68,
+          "url": "https://t.co/vcHmmk4Lqq"
+        },
+        {
+          "display_url": "pic.x.com/vcHmmk4Lqq",
+          "end": 91,
+          "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+          "media_key": "3_2095064746823483392",
+          "start": 68,
+          "url": "https://t.co/vcHmmk4Lqq"
+        },
+        {
+          "display_url": "pic.x.com/vcHmmk4Lqq",
+          "end": 91,
+          "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+          "media_key": "3_2095064746890502144",
+          "start": 68,
+          "url": "https://t.co/vcHmmk4Lqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095065108351524922",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095064746823454720"
+      },
+      {
+        "media_key": "3_2095064746827685888"
+      },
+      {
+        "media_key": "3_2095064746823483392"
+      },
+      {
+        "media_key": "3_2095064746890502144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095064782978363736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hateubutloveu77: 写了个置顶，我很温良都来找我玩呀🥺\n同类互fo互转都可以，喜欢我请给我钱🫶\n求转呀靴靴你们🥰 https://t.co/vcHmmk4Lqq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2095064746823454720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMqSX_bEAAfvWA.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2095064746827685888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMqSYAboAAJXYC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095064746823483392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMqSX_bgAAP674.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2095064746890502144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMqSYPaIAAa-oQ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095064746823454720",
+            "3_2095064746827685888",
+            "3_2095064746823483392",
+            "3_2095064746890502144"
+          ],
+          "media_source_tweet_id": [
+            "2095064782978363736",
+            "2095064782978363736",
+            "2095064782978363736",
+            "2095064782978363736"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095065108351524922",
+        "created_at": "2026-09-02T08:23:40.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095065108351524922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048050339824455681",
+              "start": 3,
+              "username": "hateubutloveu77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 91,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746823454720",
+              "start": 68,
+              "url": "https://t.co/vcHmmk4Lqq"
+            },
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 91,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746827685888",
+              "start": 68,
+              "url": "https://t.co/vcHmmk4Lqq"
+            },
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 91,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746823483392",
+              "start": 68,
+              "url": "https://t.co/vcHmmk4Lqq"
+            },
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 91,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746890502144",
+              "start": 68,
+              "url": "https://t.co/vcHmmk4Lqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095065108351524922",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095064746823454720"
+          },
+          {
+            "media_key": "3_2095064746827685888"
+          },
+          {
+            "media_key": "3_2095064746823483392"
+          },
+          {
+            "media_key": "3_2095064746890502144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095064782978363736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hateubutloveu77: 写了个置顶，我很温良都来找我玩呀🥺\n同类互fo互转都可以，喜欢我请给我钱🫶\n求转呀靴靴你们🥰 https://t.co/vcHmmk4Lqq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095064746823454720",
+            "3_2095064746827685888",
+            "3_2095064746823483392",
+            "3_2095064746890502144"
+          ]
+        },
+        "author_id": "2048050339824455681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095064782978363736",
+        "created_at": "2026-09-02T08:22:23.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095064782978363736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 70,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746823454720",
+              "start": 47,
+              "url": "https://t.co/vcHmmk4Lqq"
+            },
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 70,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746827685888",
+              "start": 47,
+              "url": "https://t.co/vcHmmk4Lqq"
+            },
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 70,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746823483392",
+              "start": 47,
+              "url": "https://t.co/vcHmmk4Lqq"
+            },
+            {
+              "display_url": "pic.x.com/vcHmmk4Lqq",
+              "end": 70,
+              "expanded_url": "https://x.com/hateubutloveu77/status/2095064782978363736/photo/1",
+              "media_key": "3_2095064746890502144",
+              "start": 47,
+              "url": "https://t.co/vcHmmk4Lqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095064782978363736",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095064746823454720"
+          },
+          {
+            "media_key": "3_2095064746827685888"
+          },
+          {
+            "media_key": "3_2095064746823483392"
+          },
+          {
+            "media_key": "3_2095064746890502144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "写了个置顶，我很温良都来找我玩呀🥺\n同类互fo互转都可以，喜欢我请给我钱🫶\n求转呀靴靴你们🥰 https://t.co/vcHmmk4Lqq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095065108351524922",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 108,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T14:44:34.000Z",
+        "description": "低浮上/对你感兴趣会互fo/🚪52回复信息",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaomiao80756",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaomiao80756",
+                "start": 0,
+                "url": "https://t.co/MftmCkF1JA"
+              }
+            ]
+          }
+        },
+        "id": "2048050339824455681",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2095064782978363736",
+        "name": "如今一個人聽歌還是會覺得失落",
+        "pinned_tweet_id": "2095064782978363736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048050339824455681/1780330576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150383753830400/IBJE_Qd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 158,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/MftmCkF1JA",
+        "username": "hateubutloveu77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
