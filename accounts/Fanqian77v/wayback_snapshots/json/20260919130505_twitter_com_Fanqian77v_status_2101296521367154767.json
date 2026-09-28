@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101208647296745472",
+        "3_2101208647288438784",
+        "3_2101208647321980928",
+        "3_2101208647317733376"
+      ],
+      "media_source_tweet_id": [
+        "2101208716800569651",
+        "2101208716800569651",
+        "2101208716800569651",
+        "2101208716800569651"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101296521367154767",
+    "created_at": "2026-09-19T13:05:05.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101296521367154767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1525999648149671936",
+          "start": 3,
+          "username": "bloom_boutique4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kgyUSK132p",
+          "end": 88,
+          "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+          "media_key": "3_2101208647296745472",
+          "start": 65,
+          "url": "https://t.co/kgyUSK132p"
+        },
+        {
+          "display_url": "pic.x.com/kgyUSK132p",
+          "end": 88,
+          "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+          "media_key": "3_2101208647288438784",
+          "start": 65,
+          "url": "https://t.co/kgyUSK132p"
+        },
+        {
+          "display_url": "pic.x.com/kgyUSK132p",
+          "end": 88,
+          "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+          "media_key": "3_2101208647321980928",
+          "start": 65,
+          "url": "https://t.co/kgyUSK132p"
+        },
+        {
+          "display_url": "pic.x.com/kgyUSK132p",
+          "end": 88,
+          "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+          "media_key": "3_2101208647317733376",
+          "start": 65,
+          "url": "https://t.co/kgyUSK132p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101296521367154767",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101208647296745472"
+      },
+      {
+        "media_key": "3_2101208647288438784"
+      },
+      {
+        "media_key": "3_2101208647321980928"
+      },
+      {
+        "media_key": "3_2101208647317733376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101208716800569651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bloom_boutique4: 这里是树莓呀 过🚪的哥哥请看p4！\n欢迎宝宝们互fo互转！\n抽5杯奶茶 100fo开！ https://t.co/kgyUSK132p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2101208647296745472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj-Ic0aAAACjgl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2101208647288438784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj-IcybQAAbPYh.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1468,
+        "media_key": "3_2101208647321980928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj-Ic6bEAAM7q4.jpg",
+        "width": 1082
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2101208647317733376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSj-Ic5aQAAWgp3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101208647296745472",
+            "3_2101208647288438784",
+            "3_2101208647321980928",
+            "3_2101208647317733376"
+          ],
+          "media_source_tweet_id": [
+            "2101208716800569651",
+            "2101208716800569651",
+            "2101208716800569651",
+            "2101208716800569651"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101296521367154767",
+        "created_at": "2026-09-19T13:05:05.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101296521367154767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1525999648149671936",
+              "start": 3,
+              "username": "bloom_boutique4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 88,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647296745472",
+              "start": 65,
+              "url": "https://t.co/kgyUSK132p"
+            },
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 88,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647288438784",
+              "start": 65,
+              "url": "https://t.co/kgyUSK132p"
+            },
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 88,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647321980928",
+              "start": 65,
+              "url": "https://t.co/kgyUSK132p"
+            },
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 88,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647317733376",
+              "start": 65,
+              "url": "https://t.co/kgyUSK132p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101296521367154767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101208647296745472"
+          },
+          {
+            "media_key": "3_2101208647288438784"
+          },
+          {
+            "media_key": "3_2101208647321980928"
+          },
+          {
+            "media_key": "3_2101208647317733376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101208716800569651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bloom_boutique4: 这里是树莓呀 过🚪的哥哥请看p4！\n欢迎宝宝们互fo互转！\n抽5杯奶茶 100fo开！ https://t.co/kgyUSK132p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101208647296745472",
+            "3_2101208647288438784",
+            "3_2101208647321980928",
+            "3_2101208647317733376"
+          ]
+        },
+        "author_id": "1525999648149671936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101208716800569651",
+        "created_at": "2026-09-19T07:16:11.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101208716800569651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 67,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647296745472",
+              "start": 44,
+              "url": "https://t.co/kgyUSK132p"
+            },
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 67,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647288438784",
+              "start": 44,
+              "url": "https://t.co/kgyUSK132p"
+            },
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 67,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647321980928",
+              "start": 44,
+              "url": "https://t.co/kgyUSK132p"
+            },
+            {
+              "display_url": "pic.x.com/kgyUSK132p",
+              "end": 67,
+              "expanded_url": "https://x.com/bloom_boutique4/status/2101208716800569651/photo/1",
+              "media_key": "3_2101208647317733376",
+              "start": 44,
+              "url": "https://t.co/kgyUSK132p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101208716800569651",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101208647296745472"
+          },
+          {
+            "media_key": "3_2101208647288438784"
+          },
+          {
+            "media_key": "3_2101208647321980928"
+          },
+          {
+            "media_key": "3_2101208647317733376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是树莓呀 过🚪的哥哥请看p4！\n欢迎宝宝们互fo互转！\n抽5杯奶茶 100fo开！ https://t.co/kgyUSK132p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101296521367154767",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 124,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-16T00:40:54.000Z",
+        "description": "这里是树莓呀 05｜162｜45｜谁想过🚪聆听我破碎的原生家庭。\n🐧：2298676289 防失联",
+        "id": "1525999648149671936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101208716800569651",
+        "name": "树莓",
+        "pinned_tweet_id": "2101208716800569651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1525999648149671936/1789820984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101207145308184576/GXW6OtQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "bloom_boutique4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

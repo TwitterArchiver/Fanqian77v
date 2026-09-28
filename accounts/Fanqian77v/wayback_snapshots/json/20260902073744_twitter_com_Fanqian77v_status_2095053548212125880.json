@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2095053548212125880",
+    "created_at": "2026-09-02T07:37:44.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095053548212125880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kry_official_/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/kry_official_/status/2094987924354068931",
+          "start": 7,
+          "url": "https://t.co/fbb6DStW8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095053548212125880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094987924354068931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求再贩😭😭😭 https://t.co/fbb6DStW8b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094987866942349313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLkXYHaIAEjilE.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2094987866908819456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLkXX_agAAMZxP.jpg",
+        "width": 2400
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094987866980171776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRLkXYQbQAABacf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2095053548212125880",
+        "created_at": "2026-09-02T07:37:44.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095053548212125880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kry_official_/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/kry_official_/status/2094987924354068931",
+              "start": 7,
+              "url": "https://t.co/fbb6DStW8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095053548212125880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094987924354068931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求再贩😭😭😭 https://t.co/fbb6DStW8b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094987866942349313",
+            "3_2094987866908819456",
+            "3_2094987866980171776"
+          ]
+        },
+        "author_id": "2353567248",
+        "conversation_id": "2094987924354068931",
+        "created_at": "2026-09-02T03:16:58.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094987924354068931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SCQEaLDLwd",
+              "end": 73,
+              "expanded_url": "https://x.com/KRY_official_/status/2094987924354068931/photo/1",
+              "media_key": "3_2094987866942349313",
+              "start": 50,
+              "url": "https://t.co/SCQEaLDLwd"
+            },
+            {
+              "display_url": "pic.x.com/SCQEaLDLwd",
+              "end": 73,
+              "expanded_url": "https://x.com/KRY_official_/status/2094987924354068931/photo/1",
+              "media_key": "3_2094987866908819456",
+              "start": 50,
+              "url": "https://t.co/SCQEaLDLwd"
+            },
+            {
+              "display_url": "pic.x.com/SCQEaLDLwd",
+              "end": 73,
+              "expanded_url": "https://x.com/KRY_official_/status/2094987924354068931/photo/1",
+              "media_key": "3_2094987866980171776",
+              "start": 50,
+              "url": "https://t.co/SCQEaLDLwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094987924354068931",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094987866942349313"
+          },
+          {
+            "media_key": "3_2094987866908819456"
+          },
+          {
+            "media_key": "3_2094987866980171776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3050,
+          "like_count": 50,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "KRY BACKPACKをお貸しいただける方居ましたらDM下さい🙏🙏\n\n年代デザインは問いません！ https://t.co/SCQEaLDLwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095053548212125880",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 108,
+          "like_count": 1357,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-20T17:40:32.000Z",
+        "description": "《instagram》https://t.co/IwirIV9DQx ††††††††††††《原宿竹下通り店》 https://t.co/ghhIvV2tpS††††††††††††《TikTok》https://t.co/eWpnFHrnbZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/kry231",
+                "end": 34,
+                "expanded_url": "http://Instagram.com/kry231",
+                "start": 11,
+                "url": "https://t.co/IwirIV9DQx"
+              },
+              {
+                "display_url": "x.com/kry_harajuku",
+                "end": 80,
+                "expanded_url": "https://x.com/kry_harajuku",
+                "start": 57,
+                "url": "https://t.co/ghhIvV2tpS"
+              },
+              {
+                "display_url": "tiktok.com/@kryclothing",
+                "end": 123,
+                "expanded_url": "https://www.tiktok.com/@kryclothing",
+                "start": 100,
+                "url": "https://t.co/eWpnFHrnbZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kry.tokyo",
+                "end": 23,
+                "expanded_url": "http://www.kry.tokyo/",
+                "start": 0,
+                "url": "https://t.co/tizARXfMq6"
+              }
+            ]
+          }
+        },
+        "id": "2353567248",
+        "is_identity_verified": false,
+        "location": "TOKYO",
+        "most_recent_tweet_id": "2094987924354068931",
+        "name": "KRYclothing",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353567248/1612239907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507544673732096004/fcwNKSVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70698,
+          "following_count": 20023,
+          "like_count": 108507,
+          "listed_count": 544,
+          "media_count": 35691,
+          "tweet_count": 108657
+        },
+        "url": "https://t.co/tizARXfMq6",
+        "username": "KRY_official_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

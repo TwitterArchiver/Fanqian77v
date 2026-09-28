@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100593014762819585",
+        "3_2100593024250322944",
+        "3_2100593033674940416"
+      ],
+      "media_source_tweet_id": [
+        "2100593037764436317",
+        "2100593037764436317",
+        "2100593037764436317"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2102060247607361553",
+    "created_at": "2026-09-21T15:39:52.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102060247607361553"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "門檻妹"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "女高"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "純綠"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "半綠"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066571656760639488",
+          "start": 3,
+          "username": "rurumi_77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvgYivWsKm",
+          "end": 88,
+          "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+          "media_key": "3_2100593014762819585",
+          "start": 65,
+          "url": "https://t.co/rvgYivWsKm"
+        },
+        {
+          "display_url": "pic.x.com/rvgYivWsKm",
+          "end": 88,
+          "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+          "media_key": "3_2100593024250322944",
+          "start": 65,
+          "url": "https://t.co/rvgYivWsKm"
+        },
+        {
+          "display_url": "pic.x.com/rvgYivWsKm",
+          "end": 88,
+          "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+          "media_key": "3_2100593033674940416",
+          "start": 65,
+          "url": "https://t.co/rvgYivWsKm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102060247607361553",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100593014762819585"
+      },
+      {
+        "media_key": "3_2100593024250322944"
+      },
+      {
+        "media_key": "3_2100593033674940416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100593037764436317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rurumi_77: 我是嚕咪 昨天號活了24小時炸了\n歡迎女孩子互fo互轉\n#門檻妹 #门槛妹 #女高 #純綠 #半綠 https://t.co/rvgYivWsKm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2100593014762819585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbON66a0AEIYFP.jpg",
+        "width": 2302
+      },
+      {
+        "height": 3392,
+        "media_key": "3_2100593024250322944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbOOeQaoAAaQdp.jpg",
+        "width": 1908
+      },
+      {
+        "height": 347,
+        "media_key": "3_2100593033674940416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbOPBXa4AAKVd9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100593014762819585",
+            "3_2100593024250322944",
+            "3_2100593033674940416"
+          ],
+          "media_source_tweet_id": [
+            "2100593037764436317",
+            "2100593037764436317",
+            "2100593037764436317"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2102060247607361553",
+        "created_at": "2026-09-21T15:39:52.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102060247607361553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "門檻妹"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "女高"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "純綠"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "半綠"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066571656760639488",
+              "start": 3,
+              "username": "rurumi_77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvgYivWsKm",
+              "end": 88,
+              "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+              "media_key": "3_2100593014762819585",
+              "start": 65,
+              "url": "https://t.co/rvgYivWsKm"
+            },
+            {
+              "display_url": "pic.x.com/rvgYivWsKm",
+              "end": 88,
+              "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+              "media_key": "3_2100593024250322944",
+              "start": 65,
+              "url": "https://t.co/rvgYivWsKm"
+            },
+            {
+              "display_url": "pic.x.com/rvgYivWsKm",
+              "end": 88,
+              "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+              "media_key": "3_2100593033674940416",
+              "start": 65,
+              "url": "https://t.co/rvgYivWsKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102060247607361553",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100593014762819585"
+          },
+          {
+            "media_key": "3_2100593024250322944"
+          },
+          {
+            "media_key": "3_2100593033674940416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100593037764436317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rurumi_77: 我是嚕咪 昨天號活了24小時炸了\n歡迎女孩子互fo互轉\n#門檻妹 #门槛妹 #女高 #純綠 #半綠 https://t.co/rvgYivWsKm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100593014762819585",
+            "3_2100593024250322944",
+            "3_2100593033674940416"
+          ]
+        },
+        "author_id": "2066571656760639488",
+        "conversation_id": "2100593037764436317",
+        "created_at": "2026-09-17T14:29:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100593037764436317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "門檻妹"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "女高"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "純綠"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "半綠"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvgYivWsKm",
+              "end": 73,
+              "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+              "media_key": "3_2100593014762819585",
+              "start": 50,
+              "url": "https://t.co/rvgYivWsKm"
+            },
+            {
+              "display_url": "pic.x.com/rvgYivWsKm",
+              "end": 73,
+              "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+              "media_key": "3_2100593024250322944",
+              "start": 50,
+              "url": "https://t.co/rvgYivWsKm"
+            },
+            {
+              "display_url": "pic.x.com/rvgYivWsKm",
+              "end": 73,
+              "expanded_url": "https://x.com/rurumi_77/status/2100593037764436317/photo/1",
+              "media_key": "3_2100593033674940416",
+              "start": 50,
+              "url": "https://t.co/rvgYivWsKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100593037764436317",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100593014762819585"
+          },
+          {
+            "media_key": "3_2100593024250322944"
+          },
+          {
+            "media_key": "3_2100593033674940416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1715,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我是嚕咪 昨天號活了24小時炸了\n歡迎女孩子互fo互轉\n#門檻妹 #门槛妹 #女高 #純綠 #半綠 https://t.co/rvgYivWsKm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102060247607361553",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 125,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T17:21:37.000Z",
+        "description": "🇹🇼｜🚪500不過不回｜線下沒非綠\n詳細都在置頂 看不懂字的別來",
+        "id": "2066571656760639488",
+        "is_identity_verified": false,
+        "location": "🚪500",
+        "most_recent_tweet_id": "2102037325626954173",
+        "name": "嚕咪",
+        "pinned_tweet_id": "2100593037764436317",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100594063498248193/dUbXosf6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 71,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "rurumi_77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

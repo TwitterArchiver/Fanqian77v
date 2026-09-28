@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096458234374873088",
+        "3_2096458234387443712",
+        "3_2096458234379046912",
+        "3_2096458234358005760"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2096458252414595338",
+    "created_at": "2026-09-06T04:39:32.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096458252414595338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F2z8Z6Klxz",
+          "end": 116,
+          "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+          "media_key": "3_2096458234374873088",
+          "start": 93,
+          "url": "https://t.co/F2z8Z6Klxz"
+        },
+        {
+          "display_url": "pic.x.com/F2z8Z6Klxz",
+          "end": 116,
+          "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+          "media_key": "3_2096458234387443712",
+          "start": 93,
+          "url": "https://t.co/F2z8Z6Klxz"
+        },
+        {
+          "display_url": "pic.x.com/F2z8Z6Klxz",
+          "end": 116,
+          "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+          "media_key": "3_2096458234379046912",
+          "start": 93,
+          "url": "https://t.co/F2z8Z6Klxz"
+        },
+        {
+          "display_url": "pic.x.com/F2z8Z6Klxz",
+          "end": 116,
+          "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+          "media_key": "3_2096458234358005760",
+          "start": 93,
+          "url": "https://t.co/F2z8Z6Klxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096458252414595338",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096458234374873088"
+      },
+      {
+        "media_key": "3_2096458234387443712"
+      },
+      {
+        "media_key": "3_2096458234379046912"
+      },
+      {
+        "media_key": "3_2096458234358005760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "dim这件布料想到会很差了没想到会这么差，一打开就有这种白色线头，而且这么薄却不透气，上身没有人台好看，我没有胸但是也很显壮，值得一夸的是五金细节做的很好。dim我这么孝你你就这么对我 https://t.co/F2z8Z6Klxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096458234374873088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgdqBpbYAAw3Uy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096458234387443712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgdqBsbMAAqe4Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096458234379046912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgdqBqbEAAgz2e.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096458234358005760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgdqBlaAAABq3P.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096458234374873088",
+            "3_2096458234387443712",
+            "3_2096458234379046912",
+            "3_2096458234358005760"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2096458252414595338",
+        "created_at": "2026-09-06T04:39:32.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096458252414595338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F2z8Z6Klxz",
+              "end": 116,
+              "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+              "media_key": "3_2096458234374873088",
+              "start": 93,
+              "url": "https://t.co/F2z8Z6Klxz"
+            },
+            {
+              "display_url": "pic.x.com/F2z8Z6Klxz",
+              "end": 116,
+              "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+              "media_key": "3_2096458234387443712",
+              "start": 93,
+              "url": "https://t.co/F2z8Z6Klxz"
+            },
+            {
+              "display_url": "pic.x.com/F2z8Z6Klxz",
+              "end": 116,
+              "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+              "media_key": "3_2096458234379046912",
+              "start": 93,
+              "url": "https://t.co/F2z8Z6Klxz"
+            },
+            {
+              "display_url": "pic.x.com/F2z8Z6Klxz",
+              "end": 116,
+              "expanded_url": "https://x.com/Fanqian77v/status/2096458252414595338/photo/1",
+              "media_key": "3_2096458234358005760",
+              "start": 93,
+              "url": "https://t.co/F2z8Z6Klxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096458252414595338",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096458234374873088"
+          },
+          {
+            "media_key": "3_2096458234387443712"
+          },
+          {
+            "media_key": "3_2096458234379046912"
+          },
+          {
+            "media_key": "3_2096458234358005760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dim这件布料想到会很差了没想到会这么差，一打开就有这种白色线头，而且这么薄却不透气，上身没有人台好看，我没有胸但是也很显壮，值得一夸的是五金细节做的很好。dim我这么孝你你就这么对我 https://t.co/F2z8Z6Klxz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096458252414595338",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 116,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

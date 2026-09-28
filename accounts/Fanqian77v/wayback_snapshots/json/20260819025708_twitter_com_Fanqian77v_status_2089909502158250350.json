@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2089601734087979334",
+    "created_at": "2026-08-19T02:57:08.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089909502158250350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1738094718767300609",
+          "start": 0,
+          "username": "kukulinye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089909502158250350",
+    "in_reply_to_user_id": "1738094718767300609",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089632453652533301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukulinye 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2089601734087979334",
+        "created_at": "2026-08-19T02:57:08.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089909502158250350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1738094718767300609",
+              "start": 0,
+              "username": "kukulinye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089909502158250350",
+        "in_reply_to_user_id": "1738094718767300609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089632453652533301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukulinye 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738094718767300609",
+        "conversation_id": "2089601734087979334",
+        "created_at": "2026-08-18T08:36:15.000Z",
+        "display_text_range": [
+          12,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089632453652533301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773143737423847424",
+              "start": 0,
+              "username": "Fanqian77v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089632453652533301",
+        "in_reply_to_user_id": "1773143737423847424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089601734087979334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanqian77v 往另一个方面想你在看房，是中介你就有大钱赚，是客户你就有自己的家了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089909502158250350",
+        "name": "Q",
+        "pinned_tweet_id": "2082404128203096160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 96,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-22T07:11:02.000Z",
+        "description": "喜欢可爱的宠物",
+        "id": "1738094718767300609",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089895027984175533",
+        "name": "白泽雨烨",
+        "pinned_tweet_id": "2089765842561216971",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1738094718767300609/1706436478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751547355227385856/GxvHSHF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 78,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "kukulinye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098051532071845888",
+        "3_2098051532029857793"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2098051664456647166",
+    "created_at": "2026-09-10T14:11:11.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T15:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098051664456647166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2066164606213795840",
+          "start": 7,
+          "username": "HelloLLQuQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CZTIXKkKIf",
+          "end": 119,
+          "expanded_url": "https://x.com/Fanqian77v/status/2098051664456647166/photo/1",
+          "media_key": "3_2098051532071845888",
+          "start": 96,
+          "url": "https://t.co/CZTIXKkKIf"
+        },
+        {
+          "display_url": "pic.x.com/CZTIXKkKIf",
+          "end": 119,
+          "expanded_url": "https://x.com/Fanqian77v/status/2098051664456647166/photo/1",
+          "media_key": "3_2098051532029857793",
+          "start": 96,
+          "url": "https://t.co/CZTIXKkKIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098051664456647166",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098051532071845888"
+      },
+      {
+        "media_key": "3_2098051532029857793"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很幸运地收到了@HelloLLQuQ 老师的透卡！打包非常细致可爱都是粉粉的…盒子封面的大狗狗也超级帅气！\n之前在平台刷到过图文就觉得特别可爱，拿到透卡实物感觉可爱翻倍了…（爱不释手🥺🥺💗💗 https://t.co/CZTIXKkKIf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2098051532071845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3GwKGbQAAqgva.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098051532029857793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3GwJ8akAEGd8i.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098051532071845888",
+            "3_2098051532029857793"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2098051664456647166",
+        "created_at": "2026-09-10T14:11:11.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098051664456647166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2066164606213795840",
+              "start": 7,
+              "username": "HelloLLQuQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZTIXKkKIf",
+              "end": 119,
+              "expanded_url": "https://x.com/Fanqian77v/status/2098051664456647166/photo/1",
+              "media_key": "3_2098051532071845888",
+              "start": 96,
+              "url": "https://t.co/CZTIXKkKIf"
+            },
+            {
+              "display_url": "pic.x.com/CZTIXKkKIf",
+              "end": 119,
+              "expanded_url": "https://x.com/Fanqian77v/status/2098051664456647166/photo/1",
+              "media_key": "3_2098051532029857793",
+              "start": 96,
+              "url": "https://t.co/CZTIXKkKIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098051664456647166",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098051532071845888"
+          },
+          {
+            "media_key": "3_2098051532029857793"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很幸运地收到了@HelloLLQuQ 老师的透卡！打包非常细致可爱都是粉粉的…盒子封面的大狗狗也超级帅气！\n之前在平台刷到过图文就觉得特别可爱，拿到透卡实物感觉可爱翻倍了…（爱不释手🥺🥺💗💗 https://t.co/CZTIXKkKIf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098051664456647166",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 118,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:31:05.000Z",
+        "description": "透明画师-我会在这里补档我的画和发一些日常👉小红书指路：https://t.co/2McKGqqrDj\n需要回关请私信我（我怕打扰到你）\n可以向我提问👉 https://t.co/TJeeFih2YN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 51,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 28,
+                "url": "https://t.co/2McKGqqrDj"
+              },
+              {
+                "display_url": "ngl.link/%E7%BD%91%E7%B…",
+                "end": 100,
+                "expanded_url": "https://ngl.link/%E7%BD%91%E7%BB%9C%E4%BA%BA%E6%9C%BA",
+                "start": 77,
+                "url": "https://t.co/TJeeFih2YN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/73AamQYIbZG",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/73AamQYIbZG",
+                "start": 0,
+                "url": "https://t.co/2McKGqqrDj"
+              }
+            ]
+          }
+        },
+        "id": "2066164606213795840",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097690780735590660",
+        "name": "网络人机",
+        "pinned_tweet_id": "2092593900657725654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066164606213795840/1786723940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083114299472687104/B2x4dY6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 68,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/2McKGqqrDj",
+        "username": "HelloLLQuQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

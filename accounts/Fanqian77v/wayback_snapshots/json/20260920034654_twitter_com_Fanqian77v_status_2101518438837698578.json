@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1773143737423847424",
+    "conversation_id": "2101500395076165694",
+    "created_at": "2026-09-20T03:46:54.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T04:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101518438837698578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994347003569209344",
+          "start": 0,
+          "username": "azzinal123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101518438837698578",
+    "in_reply_to_user_id": "1994347003569209344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101500395076165694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azzinal123 大学好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773143737423847424",
+        "conversation_id": "2101500395076165694",
+        "created_at": "2026-09-20T03:46:54.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101518438837698578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994347003569209344",
+              "start": 0,
+              "username": "azzinal123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101518438837698578",
+        "in_reply_to_user_id": "1994347003569209344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101500395076165694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azzinal123 大学好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994347003569209344",
+        "conversation_id": "2101500395076165694",
+        "created_at": "2026-09-20T02:35:12.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101500395076165694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101500395076165694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大学好恶心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101518438837698578",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 124,
+          "like_count": 1411,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-28T10:06:03.000Z",
+        "description": "我是叉烧/生理男生/08/精神状况不良\n欢迎来和我玩呀🥺\n有趣的人会回fo。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/azzinal114514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/azzinal114514",
+                "start": 0,
+                "url": "https://t.co/y8ZTKoani9"
+              }
+            ]
+          }
+        },
+        "id": "1994347003569209344",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2101500395076165694",
+        "name": "小叉烧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994347003569209344/1764325152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098312611855261696/Jr27wVqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 85,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/y8ZTKoani9",
+        "username": "azzinal123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

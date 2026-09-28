@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099123828043780096",
+        "3_2099123828056317952"
+      ]
+    },
+    "author_id": "1773143737423847424",
+    "conversation_id": "2099123854312722793",
+    "created_at": "2026-09-13T13:11:41.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099123854312722793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8kkGj7LBjF",
+          "end": 103,
+          "expanded_url": "https://x.com/Fanqian77v/status/2099123854312722793/photo/1",
+          "media_key": "3_2099123828043780096",
+          "start": 80,
+          "url": "https://t.co/8kkGj7LBjF"
+        },
+        {
+          "display_url": "pic.x.com/8kkGj7LBjF",
+          "end": 103,
+          "expanded_url": "https://x.com/Fanqian77v/status/2099123854312722793/photo/1",
+          "media_key": "3_2099123828056317952",
+          "start": 80,
+          "url": "https://t.co/8kkGj7LBjF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099123854312722793",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099123828043780096"
+      },
+      {
+        "media_key": "3_2099123828056317952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两双我一直在纠结买哪双。p1去线下店试了高帮稍微有点显腿粗，但是鞋面设计很帅气。p2没有看过实物不知道是低帮还是高帮，但是看返图这双好像更显腿细…思索ing https://t.co/8kkGj7LBjF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099123828043780096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGV__4bkAAOPlK.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099123828056317952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGV__7a4AASDJb.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099123828043780096",
+            "3_2099123828056317952"
+          ]
+        },
+        "author_id": "1773143737423847424",
+        "conversation_id": "2099123854312722793",
+        "created_at": "2026-09-13T13:11:41.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099123854312722793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8kkGj7LBjF",
+              "end": 103,
+              "expanded_url": "https://x.com/Fanqian77v/status/2099123854312722793/photo/1",
+              "media_key": "3_2099123828043780096",
+              "start": 80,
+              "url": "https://t.co/8kkGj7LBjF"
+            },
+            {
+              "display_url": "pic.x.com/8kkGj7LBjF",
+              "end": 103,
+              "expanded_url": "https://x.com/Fanqian77v/status/2099123854312722793/photo/1",
+              "media_key": "3_2099123828056317952",
+              "start": 80,
+              "url": "https://t.co/8kkGj7LBjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099123854312722793",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099123828043780096"
+          },
+          {
+            "media_key": "3_2099123828056317952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两双我一直在纠结买哪双。p1去线下店试了高帮稍微有点显腿粗，但是鞋面设计很帅气。p2没有看过实物不知道是低帮还是高帮，但是看返图这双好像更显腿细…思索ing https://t.co/8kkGj7LBjF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-28T00:23:14.000Z",
+        "description": "防炸@qinyfn337187\n我是小 Q，喜欢我就给我打钱吧\n🚪88纯绿➕pyq\n只o不g 互关dd，会查主页成分回关，没回到的可以私信我呀\n提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "qinyfn337187"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qvq77v",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qvq77v",
+                "start": 0,
+                "url": "https://t.co/qEw2Yt5dij"
+              }
+            ]
+          }
+        },
+        "id": "1773143737423847424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099123854312722793",
+        "name": "Q",
+        "pinned_tweet_id": "2094994469296996457",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773143737423847424/1771193278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359610112151552/OkQwkcTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 116,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/qEw2Yt5dij",
+        "username": "Fanqian77v",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
