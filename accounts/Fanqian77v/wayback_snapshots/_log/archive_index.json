@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-19T20:08:12",
+  "last_updated": "2026-10-19T20:08:33",
   "html": {
     "https://web.archive.org/web/20251226021003if_/https://twitter.com/Fanqian77v/status/2004374114531004666": {
       "status": "done",
@@ -14420,10 +14420,13 @@
       "last_updated": "2026-09-28T20:43:05"
     },
     "https://pbs.twimg.com/profile_images/2100603379194183680/gs5Nr0dM_normal.jpg": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260917181425_twitter_com_Fanqian77v_status_2100649593214316907.json"
-      ]
+      ],
+      "last_updated": "2026-10-19T20:08:33",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260917181425if_/https://pbs.twimg.com/profile_images/2100603379194183680/gs5Nr0dM_normal.jpg",
+      "miss_count": 1
     }
   },
   "media": {
@@ -30886,7 +30889,7 @@
       "last_updated": "2026-10-19T19:53:29"
     },
     "20260917181425_twitter_com_Fanqian77v_status_2100649593214316907.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -30895,7 +30898,7 @@
           "https://pbs.twimg.com/profile_images/2100603379194183680/gs5Nr0dM_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-19T20:08:05"
+      "last_updated": "2026-10-19T20:08:33"
     },
     "20260919181055_twitter_com_Fanqian77v_status_2101373486774252020.json": {
       "status": "done",
